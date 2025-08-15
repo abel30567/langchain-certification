@@ -19,13 +19,17 @@ langchain-certification/
 ├── README.md                    # This file
 ├── .env.example                # Template for API keys
 ├── lesson/                     # Course materials and notes
-│   └── L1-Model_prompt_parser.py  # Lesson 1: Models, Prompts and Parsers
+│   ├── L1-Model_prompt_parser.py  # Lesson 1: Models, Prompts and Parsers
+│   ├── L2-Memory.py           # Lesson 2: Memory
+│   └── README.md              # Lesson descriptions
 ├── projects/                   # Practical implementations
-│   └── lesson1_primal_tcg/   # Real-world application of Lesson 1
-│       ├── primal_tcg_rules_assistant.py  # Main implementation
-│       ├── test_primal_assistant.py       # Testing without API
-│       ├── README_primal_tcg.md          # Project documentation
-│       └── venv/                          # Virtual environment
+│   ├── lesson1_primal_tcg/   # Real-world application of Lesson 1
+│   │   ├── primal_tcg_rules_assistant.py  # Main implementation
+│   │   ├── test_primal_assistant.py       # Testing without API
+│   │   ├── README_primal_tcg.md          # Project documentation
+│   │   └── venv/                          # Virtual environment
+│   └── lesson2_memory_trading/ # Real-world application of Lesson 2
+│       └── README.md          # Project documentation
 └── docs/                      # Additional documentation
     └── Primal_TCG_Comprehensive_Rules_V1.3.1.md
 ```
@@ -46,9 +50,17 @@ langchain-certification/
   - Implemented structured output parsing for analytics
   - Created chained prompts for complex interactions
 
-### ⏳ Lesson 3: Memory (17 mins)
-- **Status:** Upcoming
-- **Topics:** Managing conversation memory and context
+### ✅ Lesson 3: Memory (17 mins)
+- **Status:** Completed
+- **Topics:** 
+  - ConversationBufferMemory for full history
+  - ConversationSummaryMemory for condensed context
+  - ConversationBufferWindowMemory for recent messages
+  - Memory integration with chains
+- **Project:** [Memory Trading Assistant](./projects/lesson2_memory_trading/)
+  - Built a trading assistant with persistent memory
+  - Implemented context-aware market analysis
+  - Created conversational trading strategy discussions
 
 ### ⏳ Lesson 4: Chains (13 mins)
 - **Status:** Upcoming
@@ -127,6 +139,13 @@ python primal_tcg_rules_assistant.py
 - ✅ Building production-ready applications with error handling
 - ✅ Implementing analytics and pattern tracking
 
+### From Lesson 2: Memory
+- ✅ Implementing conversation memory in applications
+- ✅ Managing different memory types for optimal performance
+- ✅ Building context-aware chatbots
+- ✅ Persisting conversation history across sessions
+- ✅ Memory optimization strategies for long conversations
+
 ## 🎓 Certification Goal
 
 Upon completion of this course, I aim to:
@@ -138,9 +157,9 @@ Upon completion of this course, I aim to:
 ## 📈 Progress Tracking
 
 - **Course Started:** August 2025
-- **Lessons Completed:** 1/8
-- **Projects Built:** 1
-- **Lines of Code:** 600+
+- **Lessons Completed:** 2/8
+- **Projects Built:** 2
+- **Lines of Code:** 800+
 - **API Integrations:** OpenAI
 
 ## 🔗 Resources

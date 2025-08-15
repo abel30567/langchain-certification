@@ -1,0 +1,94 @@
+{
+  "cards": [
+    {
+      "id": "PCT-001",
+      "name": "Flame Dragon Alpha",
+      "rarity": "Legendary",
+      "type": "Creature",
+      "market_price": 250.00,
+      "price_history": [220, 235, 240, 250],
+      "supply": 150,
+      "demand": "High"
+    },
+    {
+      "id": "PCT-002",
+      "name": "Mystic Shield",
+      "rarity": "Rare",
+      "type": "Spell",
+      "market_price": 45.00,
+      "price_history": [40, 42, 43, 45],
+      "supply": 500,
+      "demand": "Medium"
+    },
+    {
+      "id": "PCT-003",
+      "name": "Shadow Walker",
+      "rarity": "Epic",
+      "type": "Creature",
+      "market_price": 120.00,
+      "price_history": [100, 110, 115, 120],
+      "supply": 300,
+      "demand": "High"
+    },
+    {
+      "id": "PCT-004",
+      "name": "Lightning Strike",
+      "rarity": "Common",
+      "type": "Spell",
+      "market_price": 5.00,
+      "price_history": [5, 5, 5, 5],
+      "supply": 5000,
+      "demand": "Low"
+    },
+    {
+      "id": "PCT-005",
+      "name": "Ancient Artifact",
+      "rarity": "Mythic",
+      "type": "Artifact",
+      "market_price": 500.00,
+      "price_history": [450, 475, 490, 500],
+      "supply": 50,
+      "demand": "Very High"
+    },
+    {
+      "id": "PCT-006",
+      "name": "Forest Guardian",
+      "rarity": "Rare",
+      "type": "Creature",
+      "market_price": 65.00,
+      "price_history": [60, 62, 64, 65],
+      "supply": 400,
+      "demand": "Medium"
+    },
+    {
+      "id": "PCT-007",
+      "name": "Time Warp",
+      "rarity": "Legendary",
+      "type": "Spell",
+      "market_price": 180.00,
+      "price_history": [170, 175, 178, 180],
+      "supply": 200,
+      "demand": "High"
+    },
+    {
+      "id": "PCT-008",
+      "name": "Steel Warrior",
+      "rarity": "Common",
+      "type": "Creature",
+      "market_price": 8.00,
+      "price_history": [7, 7, 8, 8],
+      "supply": 3000,
+      "demand": "Low"
+    }
+  ],
+  "market_trends": {
+    "hot_cards": ["PCT-001", "PCT-003", "PCT-005"],
+    "declining": ["PCT-004", "PCT-008"],
+    "stable": ["PCT-002", "PCT-006"]
+  },
+  "trade_recommendations": {
+    "buy": ["PCT-003", "PCT-007"],
+    "sell": ["PCT-004"],
+    "hold": ["PCT-001", "PCT-005"]
+  }
+}
