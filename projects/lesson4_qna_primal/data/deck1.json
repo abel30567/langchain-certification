@@ -1,0 +1,2859 @@
+{
+  "deck_image": "https://api.primaltcg.com/uploads/2025-01-04T01:22:29.280ZC0115F.png",
+  "deck": [
+      {
+          "element": [
+              "Air",
+              "Fire"
+          ],
+          "characteristic": [
+              "Cayne Pirate",
+              "Robot",
+              "Weapon",
+              "Blade"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419dc1e269d50fc8748fc4",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Sunny",
+          "text": "TRIGGER  [Sent Out To Attack] Discard 1 card \u0003from under a card you control OR detach 1 card \u0003from a Character you control: Move 1 card from \u0003your DP under a card you control face up, OR \u0003attach 1 card from your DP to 1 Character you \u0003control, and if you do, this card gets \u0003+1/+1 this turn. TRIGGER Green 1",
+          "rarity": "Common",
+          "cardNumber": "C0204",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "PIRATE",
+          "healthy": "3/0",
+          "injured": "0/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:38:09.982ZC0204.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "68419dc1e269d50fc8748fc4",
+                  "68419de0e269d50fc8748fcd",
+                  "68419de5e269d50fc8748fce",
+                  "68419defe269d50fc8748fd1",
+                  "68419df9e269d50fc8748fd4",
+                  "6841fc26211afb06fc211460",
+                  "684234eb211afb06fc2115c4",
+                  "68423510211afb06fc2115d4"
+              ],
+              "_id": "68419dc1e269d50fc8748fc5",
+              "name": "Klepon",
+              "link": "http://primaltcg.com",
+              "createdAt": "2025-06-05T13:38:09.999Z",
+              "updatedAt": "2025-06-06T00:23:44.846Z",
+              "__v": 7
+          },
+          "createdAt": "2025-06-05T13:38:09.993Z",
+          "updatedAt": "2025-06-05T13:38:09.993Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Air",
+              "Fire"
+          ],
+          "characteristic": [
+              "Cayne Pirate",
+              "Robot",
+              "Weapon",
+              "Blade"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419dc1e269d50fc8748fc4",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Sunny",
+          "text": "TRIGGER  [Sent Out To Attack] Discard 1 card \u0003from under a card you control OR detach 1 card \u0003from a Character you control: Move 1 card from \u0003your DP under a card you control face up, OR \u0003attach 1 card from your DP to 1 Character you \u0003control, and if you do, this card gets \u0003+1/+1 this turn. TRIGGER Green 1",
+          "rarity": "Common",
+          "cardNumber": "C0204",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "PIRATE",
+          "healthy": "3/0",
+          "injured": "0/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:38:09.982ZC0204.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "68419dc1e269d50fc8748fc4",
+                  "68419de0e269d50fc8748fcd",
+                  "68419de5e269d50fc8748fce",
+                  "68419defe269d50fc8748fd1",
+                  "68419df9e269d50fc8748fd4",
+                  "6841fc26211afb06fc211460",
+                  "684234eb211afb06fc2115c4",
+                  "68423510211afb06fc2115d4"
+              ],
+              "_id": "68419dc1e269d50fc8748fc5",
+              "name": "Klepon",
+              "link": "http://primaltcg.com",
+              "createdAt": "2025-06-05T13:38:09.999Z",
+              "updatedAt": "2025-06-06T00:23:44.846Z",
+              "__v": 7
+          },
+          "createdAt": "2025-06-05T13:38:09.993Z",
+          "updatedAt": "2025-06-05T13:38:09.993Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Air",
+              "Fire"
+          ],
+          "characteristic": [
+              "Cayne Pirate",
+              "Robot",
+              "Weapon",
+              "Blade"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419dc1e269d50fc8748fc4",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Sunny",
+          "text": "TRIGGER  [Sent Out To Attack] Discard 1 card \u0003from under a card you control OR detach 1 card \u0003from a Character you control: Move 1 card from \u0003your DP under a card you control face up, OR \u0003attach 1 card from your DP to 1 Character you \u0003control, and if you do, this card gets \u0003+1/+1 this turn. TRIGGER Green 1",
+          "rarity": "Common",
+          "cardNumber": "C0204",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "PIRATE",
+          "healthy": "3/0",
+          "injured": "0/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:38:09.982ZC0204.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "68419dc1e269d50fc8748fc4",
+                  "68419de0e269d50fc8748fcd",
+                  "68419de5e269d50fc8748fce",
+                  "68419defe269d50fc8748fd1",
+                  "68419df9e269d50fc8748fd4",
+                  "6841fc26211afb06fc211460",
+                  "684234eb211afb06fc2115c4",
+                  "68423510211afb06fc2115d4"
+              ],
+              "_id": "68419dc1e269d50fc8748fc5",
+              "name": "Klepon",
+              "link": "http://primaltcg.com",
+              "createdAt": "2025-06-05T13:38:09.999Z",
+              "updatedAt": "2025-06-06T00:23:44.846Z",
+              "__v": 7
+          },
+          "createdAt": "2025-06-05T13:38:09.993Z",
+          "updatedAt": "2025-06-05T13:38:09.993Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire",
+              "Air"
+          ],
+          "characteristic": [
+              "Zoltan",
+              "Male",
+              "Masked",
+              "Enchanter",
+              "Weapon"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f7250ff7060f0552b67e",
+          "owned": [
+              {
+                  "forSale": false,
+                  "_id": "671ddf33072317173e8bbfda",
+                  "amount": "3 ",
+                  "value": 5,
+                  "user": "671d26e6072317173e8bbf17"
+              }
+          ],
+          "wanted": [],
+          "name": "Benzin",
+          "text": "TRIGGER  Target: 1 in-play Character [Sent \u0003Out To Attack] Move the top card of your \u0003deck under your Field card face up: If your \u0003Field card has the name 'Synthetic \u0003Laboratory', the target gets -1/-1 this turn.  TRIGGER Green 1",
+          "rarity": "Starter",
+          "cardNumber": "C0177",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "PLEAGUIS",
+          "healthy": "3/0",
+          "injured": "0/0",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:14:35.753ZC0177.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7f7250ff7060f0552b67e"
+              ],
+              "_id": "66a7f7250ff7060f0552b67f",
+              "name": "RomanDubina",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:10:13.345Z",
+              "updatedAt": "2024-07-29T20:10:13.345Z",
+              "__v": 0
+          },
+          "createdAt": "2024-07-29T20:10:13.342Z",
+          "updatedAt": "2024-10-27T06:35:31.214Z",
+          "__v": 2,
+          "metadata": ""
+      },
+      {
+          "element": [
+              "Fire",
+              "Air"
+          ],
+          "characteristic": [
+              "Zoltan",
+              "Male",
+              "Masked",
+              "Enchanter",
+              "Weapon"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f7250ff7060f0552b67e",
+          "owned": [
+              {
+                  "forSale": false,
+                  "_id": "671ddf33072317173e8bbfda",
+                  "amount": "3 ",
+                  "value": 5,
+                  "user": "671d26e6072317173e8bbf17"
+              }
+          ],
+          "wanted": [],
+          "name": "Benzin",
+          "text": "TRIGGER  Target: 1 in-play Character [Sent \u0003Out To Attack] Move the top card of your \u0003deck under your Field card face up: If your \u0003Field card has the name 'Synthetic \u0003Laboratory', the target gets -1/-1 this turn.  TRIGGER Green 1",
+          "rarity": "Starter",
+          "cardNumber": "C0177",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "PLEAGUIS",
+          "healthy": "3/0",
+          "injured": "0/0",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:14:35.753ZC0177.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7f7250ff7060f0552b67e"
+              ],
+              "_id": "66a7f7250ff7060f0552b67f",
+              "name": "RomanDubina",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:10:13.345Z",
+              "updatedAt": "2024-07-29T20:10:13.345Z",
+              "__v": 0
+          },
+          "createdAt": "2024-07-29T20:10:13.342Z",
+          "updatedAt": "2024-10-27T06:35:31.214Z",
+          "__v": 2,
+          "metadata": ""
+      },
+      {
+          "element": [
+              "Fire",
+              "Air"
+          ],
+          "characteristic": [
+              "Zoltan",
+              "Male",
+              "Masked",
+              "Enchanter",
+              "Weapon"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f7250ff7060f0552b67e",
+          "owned": [
+              {
+                  "forSale": false,
+                  "_id": "671ddf33072317173e8bbfda",
+                  "amount": "3 ",
+                  "value": 5,
+                  "user": "671d26e6072317173e8bbf17"
+              }
+          ],
+          "wanted": [],
+          "name": "Benzin",
+          "text": "TRIGGER  Target: 1 in-play Character [Sent \u0003Out To Attack] Move the top card of your \u0003deck under your Field card face up: If your \u0003Field card has the name 'Synthetic \u0003Laboratory', the target gets -1/-1 this turn.  TRIGGER Green 1",
+          "rarity": "Starter",
+          "cardNumber": "C0177",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "PLEAGUIS",
+          "healthy": "3/0",
+          "injured": "0/0",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:14:35.753ZC0177.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7f7250ff7060f0552b67e"
+              ],
+              "_id": "66a7f7250ff7060f0552b67f",
+              "name": "RomanDubina",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:10:13.345Z",
+              "updatedAt": "2024-07-29T20:10:13.345Z",
+              "__v": 0
+          },
+          "createdAt": "2024-07-29T20:10:13.342Z",
+          "updatedAt": "2024-10-27T06:35:31.214Z",
+          "__v": 2,
+          "metadata": ""
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Warrior",
+              "Female",
+              "Blaster"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419ec2e269d50fc8749001",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Vasia",
+          "text": "TRIGGER  When this card is put in play, you \u0003may look at the top 5 cards of your deck and \u0003move 1 Character card with {Zodiac} from \u0003among them to your hand, then move the \u0003remaining cards to the bottom of your \u0003deck in any order. TRIGGER Green 1",
+          "rarity": "Uncommon",
+          "cardNumber": "C0255",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "BETHESDA",
+          "healthy": "3/0",
+          "injured": "0/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:42:26.383ZC0255.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:42:26.435Z",
+          "updatedAt": "2025-06-05T13:42:26.435Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Warrior",
+              "Female",
+              "Blaster"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419ec2e269d50fc8749001",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Vasia",
+          "text": "TRIGGER  When this card is put in play, you \u0003may look at the top 5 cards of your deck and \u0003move 1 Character card with {Zodiac} from \u0003among them to your hand, then move the \u0003remaining cards to the bottom of your \u0003deck in any order. TRIGGER Green 1",
+          "rarity": "Uncommon",
+          "cardNumber": "C0255",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "BETHESDA",
+          "healthy": "3/0",
+          "injured": "0/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:42:26.383ZC0255.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:42:26.435Z",
+          "updatedAt": "2025-06-05T13:42:26.435Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Warrior",
+              "Female",
+              "Blaster"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419ec2e269d50fc8749001",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Vasia",
+          "text": "TRIGGER  When this card is put in play, you \u0003may look at the top 5 cards of your deck and \u0003move 1 Character card with {Zodiac} from \u0003among them to your hand, then move the \u0003remaining cards to the bottom of your \u0003deck in any order. TRIGGER Green 1",
+          "rarity": "Uncommon",
+          "cardNumber": "C0255",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "BETHESDA",
+          "healthy": "3/0",
+          "injured": "0/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:42:26.383ZC0255.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:42:26.435Z",
+          "updatedAt": "2025-06-05T13:42:26.435Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419e90e269d50fc8748ff3",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Scorpionic",
+          "text": "TRIGGER  When this card is detached from a \u0003Character you control with {Warrior}, you may \u0003search your deck for 2 differently named \u0003Character cards with {Robot} and discard \u0003them, then move this card to the bottom \u0003of your deck.  TRIGGER Yellow 1",
+          "rarity": "Common",
+          "cardNumber": "C0245",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 1,
+          "skill": "MECHA",
+          "healthy": "0/2",
+          "injured": "0/2",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:41:36.116ZC0245.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:41:36.129Z",
+          "updatedAt": "2025-06-05T13:41:36.129Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419e90e269d50fc8748ff3",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Scorpionic",
+          "text": "TRIGGER  When this card is detached from a \u0003Character you control with {Warrior}, you may \u0003search your deck for 2 differently named \u0003Character cards with {Robot} and discard \u0003them, then move this card to the bottom \u0003of your deck.  TRIGGER Yellow 1",
+          "rarity": "Common",
+          "cardNumber": "C0245",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 1,
+          "skill": "MECHA",
+          "healthy": "0/2",
+          "injured": "0/2",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:41:36.116ZC0245.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:41:36.129Z",
+          "updatedAt": "2025-06-05T13:41:36.129Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419e90e269d50fc8748ff3",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Scorpionic",
+          "text": "TRIGGER  When this card is detached from a \u0003Character you control with {Warrior}, you may \u0003search your deck for 2 differently named \u0003Character cards with {Robot} and discard \u0003them, then move this card to the bottom \u0003of your deck.  TRIGGER Yellow 1",
+          "rarity": "Common",
+          "cardNumber": "C0245",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 1,
+          "skill": "MECHA",
+          "healthy": "0/2",
+          "injured": "0/2",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:41:36.116ZC0245.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:41:36.129Z",
+          "updatedAt": "2025-06-05T13:41:36.129Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [
+              "F"
+          ],
+          "playable": true,
+          "errata": false,
+          "_id": "6841a126e269d50fc874903a",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Zodiac Armor",
+          "text": "Requirements: {Zodiac} + {Warrior}\u0003\u0003Search your deck for up to 2 cards and attach them to the user.   \u0003\u0003\u0003",
+          "rarity": "Uncommon",
+          "cardNumber": "A0099",
+          "cardType": "Ability",
+          "handCost": "",
+          "turnCount": null,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:52:38.532ZA0099.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc4c4abbb40006cdb4f510",
+                  "66fc4c6dbbb40006cdb4f522",
+                  "66fc4c70bbb40006cdb4f523",
+                  "66fc4c89bbb40006cdb4f52d",
+                  "66fc4ceebbb40006cdb4f55c",
+                  "68419f31e269d50fc8749014",
+                  "68419f3be269d50fc8749017",
+                  "6841a126e269d50fc874903a"
+              ],
+              "_id": "66fc4c4abbb40006cdb4f511",
+              "name": "Winster92",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T19:23:54.571Z",
+              "updatedAt": "2025-06-05T13:52:38.592Z",
+              "__v": 7
+          },
+          "createdAt": "2025-06-05T13:52:38.591Z",
+          "updatedAt": "2025-06-05T13:52:38.591Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [
+              "F"
+          ],
+          "playable": true,
+          "errata": false,
+          "_id": "6841a126e269d50fc874903a",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Zodiac Armor",
+          "text": "Requirements: {Zodiac} + {Warrior}\u0003\u0003Search your deck for up to 2 cards and attach them to the user.   \u0003\u0003\u0003",
+          "rarity": "Uncommon",
+          "cardNumber": "A0099",
+          "cardType": "Ability",
+          "handCost": "",
+          "turnCount": null,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:52:38.532ZA0099.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc4c4abbb40006cdb4f510",
+                  "66fc4c6dbbb40006cdb4f522",
+                  "66fc4c70bbb40006cdb4f523",
+                  "66fc4c89bbb40006cdb4f52d",
+                  "66fc4ceebbb40006cdb4f55c",
+                  "68419f31e269d50fc8749014",
+                  "68419f3be269d50fc8749017",
+                  "6841a126e269d50fc874903a"
+              ],
+              "_id": "66fc4c4abbb40006cdb4f511",
+              "name": "Winster92",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T19:23:54.571Z",
+              "updatedAt": "2025-06-05T13:52:38.592Z",
+              "__v": 7
+          },
+          "createdAt": "2025-06-05T13:52:38.591Z",
+          "updatedAt": "2025-06-05T13:52:38.591Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire",
+              "Air"
+          ],
+          "characteristic": [
+              "Zoltan",
+              "Female",
+              "Pollux",
+              "Mage"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66bcd3ad0ff7060f0553274a",
+          "owned": [],
+          "wanted": [
+              {
+                  "forSale": true,
+                  "_id": "66c717ea0ff7060f05533ca2",
+                  "amount": "1 ",
+                  "value": 10,
+                  "user": "66944d5f2ec07d2053dc1e4b"
+              }
+          ],
+          "name": "Black Tempest",
+          "text": "ACTIVATE [Your Turn | Main] Move the top card of your deck under your Field card face up OR pay FIRE/AIR : If your Field card has the name 'Synthetic Laboratory' or your Field area is empty, move 2 cards from your hand to the bottom of your deck, and if you do, draw 2 cards.",
+          "rarity": "Secret Rare",
+          "cardNumber": "C0181-SCR",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": null,
+          "skill": "KAISER",
+          "healthy": "4/2",
+          "injured": "0/1",
+          "image": "https://api.primaltcg.com/uploads/2025-01-10T02:58:49.814ZC0181F.png",
+          "cardSet": "Battlers of Bethesda",
+          "createdAt": "2024-08-14T15:56:29.431Z",
+          "updatedAt": "2025-01-10T02:58:49.844Z",
+          "__v": 2
+      },
+      {
+          "element": [
+              "Fire",
+              "Air"
+          ],
+          "characteristic": [
+              "Zoltan",
+              "Female",
+              "Pollux",
+              "Mage"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66bcd3ad0ff7060f0553274a",
+          "owned": [],
+          "wanted": [
+              {
+                  "forSale": true,
+                  "_id": "66c717ea0ff7060f05533ca2",
+                  "amount": "1 ",
+                  "value": 10,
+                  "user": "66944d5f2ec07d2053dc1e4b"
+              }
+          ],
+          "name": "Black Tempest",
+          "text": "ACTIVATE [Your Turn | Main] Move the top card of your deck under your Field card face up OR pay FIRE/AIR : If your Field card has the name 'Synthetic Laboratory' or your Field area is empty, move 2 cards from your hand to the bottom of your deck, and if you do, draw 2 cards.",
+          "rarity": "Secret Rare",
+          "cardNumber": "C0181-SCR",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": null,
+          "skill": "KAISER",
+          "healthy": "4/2",
+          "injured": "0/1",
+          "image": "https://api.primaltcg.com/uploads/2025-01-10T02:58:49.814ZC0181F.png",
+          "cardSet": "Battlers of Bethesda",
+          "createdAt": "2024-08-14T15:56:29.431Z",
+          "updatedAt": "2025-01-10T02:58:49.844Z",
+          "__v": 2
+      },
+      {
+          "element": [
+              "Fire",
+              "Air"
+          ],
+          "characteristic": [
+              "Zoltan",
+              "Female",
+              "Pollux",
+              "Mage"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66bcd3ad0ff7060f0553274a",
+          "owned": [],
+          "wanted": [
+              {
+                  "forSale": true,
+                  "_id": "66c717ea0ff7060f05533ca2",
+                  "amount": "1 ",
+                  "value": 10,
+                  "user": "66944d5f2ec07d2053dc1e4b"
+              }
+          ],
+          "name": "Black Tempest",
+          "text": "ACTIVATE [Your Turn | Main] Move the top card of your deck under your Field card face up OR pay FIRE/AIR : If your Field card has the name 'Synthetic Laboratory' or your Field area is empty, move 2 cards from your hand to the bottom of your deck, and if you do, draw 2 cards.",
+          "rarity": "Secret Rare",
+          "cardNumber": "C0181-SCR",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": null,
+          "skill": "KAISER",
+          "healthy": "4/2",
+          "injured": "0/1",
+          "image": "https://api.primaltcg.com/uploads/2025-01-10T02:58:49.814ZC0181F.png",
+          "cardSet": "Battlers of Bethesda",
+          "createdAt": "2024-08-14T15:56:29.431Z",
+          "updatedAt": "2025-01-10T02:58:49.844Z",
+          "__v": 2
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Warrior",
+              "Male",
+              "Weapon",
+              "Blade",
+              "Leader"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419dcce269d50fc8748fc8",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Reinhart",
+          "text": "ONGOING  If this card would be dealt an \u0003instance of Damage, you may detach 1 card \u0003from this card instead. \u0003\u0003TRIGGER  When you detach a card, draw \u00032 cards.\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003 ONGOING 1 TRIGGER Yellow 1",
+          "rarity": "Super Rare",
+          "cardNumber": "C0206",
+          "cardType": "Character",
+          "handCost": "1",
+          "turnCount": 6,
+          "skill": "BETHESDA",
+          "healthy": "8/0",
+          "injured": "4/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:38:20.091ZC0206.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:38:20.110Z",
+          "updatedAt": "2025-06-05T13:38:20.110Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Warrior",
+              "Male",
+              "Weapon",
+              "Blade",
+              "Leader"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419dcce269d50fc8748fc8",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Reinhart",
+          "text": "ONGOING  If this card would be dealt an \u0003instance of Damage, you may detach 1 card \u0003from this card instead. \u0003\u0003TRIGGER  When you detach a card, draw \u00032 cards.\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003 ONGOING 1 TRIGGER Yellow 1",
+          "rarity": "Super Rare",
+          "cardNumber": "C0206",
+          "cardType": "Character",
+          "handCost": "1",
+          "turnCount": 6,
+          "skill": "BETHESDA",
+          "healthy": "8/0",
+          "injured": "4/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:38:20.091ZC0206.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:38:20.110Z",
+          "updatedAt": "2025-06-05T13:38:20.110Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419e3ae269d50fc8748fe2",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Leo",
+          "text": "TRIGGER  When this card is detached from a \u0003Character with {Warrior}, you may move this \u0003card from your DP to the bottom of your deck, \u0003and if you do, draw 1 card. TRIGGER Yellow 1",
+          "rarity": "Rare",
+          "cardNumber": "C0228",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 2,
+          "skill": "MECHA",
+          "healthy": "2/2",
+          "injured": "0/2",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:40:10.784ZC0228.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:40:10.835Z",
+          "updatedAt": "2025-06-05T13:40:10.835Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419e3ae269d50fc8748fe2",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Leo",
+          "text": "TRIGGER  When this card is detached from a \u0003Character with {Warrior}, you may move this \u0003card from your DP to the bottom of your deck, \u0003and if you do, draw 1 card. TRIGGER Yellow 1",
+          "rarity": "Rare",
+          "cardNumber": "C0228",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 2,
+          "skill": "MECHA",
+          "healthy": "2/2",
+          "injured": "0/2",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:40:10.784ZC0228.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:40:10.835Z",
+          "updatedAt": "2025-06-05T13:40:10.835Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419e5ee269d50fc8748fe9",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Bull",
+          "text": "ONGOING  Characters with {Zodiac} + {Warrior} \u0003this card is attached to get +1/+1.\u0003\u0003TRIGGER  When this card is detached, move \u0003it from your DP to the bottom of your \u0003deck.\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003 ONGOING Blue 1 TRIGGER Green 1",
+          "rarity": "Common",
+          "cardNumber": "C0235",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 4,
+          "skill": "MECHA",
+          "healthy": "6/0",
+          "injured": "3/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:40:45.950ZC0235.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:40:46.004Z",
+          "updatedAt": "2025-06-05T13:40:46.004Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419e5ee269d50fc8748fe9",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Bull",
+          "text": "ONGOING  Characters with {Zodiac} + {Warrior} \u0003this card is attached to get +1/+1.\u0003\u0003TRIGGER  When this card is detached, move \u0003it from your DP to the bottom of your \u0003deck.\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003 ONGOING Blue 1 TRIGGER Green 1",
+          "rarity": "Common",
+          "cardNumber": "C0235",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 4,
+          "skill": "MECHA",
+          "healthy": "6/0",
+          "injured": "3/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:40:45.950ZC0235.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:40:46.004Z",
+          "updatedAt": "2025-06-05T13:40:46.004Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Zodiac",
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419e5ee269d50fc8748fe9",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Bull",
+          "text": "ONGOING  Characters with {Zodiac} + {Warrior} \u0003this card is attached to get +1/+1.\u0003\u0003TRIGGER  When this card is detached, move \u0003it from your DP to the bottom of your \u0003deck.\u0003\u0003\u0003\u0003\u0003\u0003\u0003\u0003 ONGOING Blue 1 TRIGGER Green 1",
+          "rarity": "Common",
+          "cardNumber": "C0235",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 4,
+          "skill": "MECHA",
+          "healthy": "6/0",
+          "injured": "3/0",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:40:45.950ZC0235.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:40:46.004Z",
+          "updatedAt": "2025-06-05T13:40:46.004Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Robot",
+              "Weapon",
+              "Blaster"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66fc4c7abbb40006cdb4f526",
+          "owned": [],
+          "wanted": [],
+          "name": "BA-VII",
+          "text": "TRIGGER  [Sent Out To Attack]      : This \u0003card gets +3/-3 this turn.\u0003 GC 1 TRIGGER Green 1 \t       (Target: 1 Character card with {Robot} \u0003in your Discard Pile or Essence area  Move the \u0003target to your hand.) RUSH",
+          "rarity": "Uncommon",
+          "cardNumber": "C0110",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 3,
+          "skill": "MECHA",
+          "healthy": "4/3",
+          "injured": "0/2",
+          "image": "https://api.primaltcg.com/uploads/2024-10-01T19:24:42.421ZC0110.png",
+          "cardSet": "Battlers of Bethesda",
+          "artist": {
+              "illustrations": [
+                  "66fc4c7abbb40006cdb4f526",
+                  "66fc4c8cbbb40006cdb4f52e",
+                  "66fc5ed5bbb40006cdb4f5f4"
+              ],
+              "_id": "66fc4c7abbb40006cdb4f527",
+              "name": "S-Barricade",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T19:24:42.438Z",
+              "updatedAt": "2024-10-01T20:43:01.502Z",
+              "__v": 2
+          },
+          "createdAt": "2024-10-01T19:24:42.436Z",
+          "updatedAt": "2024-10-01T19:24:42.436Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Robot",
+              "Weapon",
+              "Blaster"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66fc4c7abbb40006cdb4f526",
+          "owned": [],
+          "wanted": [],
+          "name": "BA-VII",
+          "text": "TRIGGER  [Sent Out To Attack]      : This \u0003card gets +3/-3 this turn.\u0003 GC 1 TRIGGER Green 1 \t       (Target: 1 Character card with {Robot} \u0003in your Discard Pile or Essence area  Move the \u0003target to your hand.) RUSH",
+          "rarity": "Uncommon",
+          "cardNumber": "C0110",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 3,
+          "skill": "MECHA",
+          "healthy": "4/3",
+          "injured": "0/2",
+          "image": "https://api.primaltcg.com/uploads/2024-10-01T19:24:42.421ZC0110.png",
+          "cardSet": "Battlers of Bethesda",
+          "artist": {
+              "illustrations": [
+                  "66fc4c7abbb40006cdb4f526",
+                  "66fc4c8cbbb40006cdb4f52e",
+                  "66fc5ed5bbb40006cdb4f5f4"
+              ],
+              "_id": "66fc4c7abbb40006cdb4f527",
+              "name": "S-Barricade",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T19:24:42.438Z",
+              "updatedAt": "2024-10-01T20:43:01.502Z",
+              "__v": 2
+          },
+          "createdAt": "2024-10-01T19:24:42.436Z",
+          "updatedAt": "2024-10-01T19:24:42.436Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "67788d55072317173e8cb29a",
+          "owned": [],
+          "wanted": [],
+          "name": "Vispa",
+          "text": "RUSH (All Characters you control with <MECHA> get +1/+1 this turn.\r\n\r\nTRIGGER When this card is sent out to Attack, it gains the following effect this turn: \"TRIGGER Valid: At the end of this turn, your opponent must select and discard 1 Character they control.\"",
+          "rarity": "Secret Rare",
+          "cardNumber": "0115",
+          "cardType": "Character",
+          "handCost": "1",
+          "turnCount": 6,
+          "skill": "MECHA",
+          "healthy": "7/0",
+          "injured": "5/0",
+          "image": "https://api.primaltcg.com/uploads/2025-01-04T01:22:29.280ZC0115F.png",
+          "cardSet": "Battlers of Bethesda",
+          "createdAt": "2025-01-04T01:22:29.296Z",
+          "updatedAt": "2025-01-04T01:22:29.296Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Robot"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "67788d55072317173e8cb29a",
+          "owned": [],
+          "wanted": [],
+          "name": "Vispa",
+          "text": "RUSH (All Characters you control with <MECHA> get +1/+1 this turn.\r\n\r\nTRIGGER When this card is sent out to Attack, it gains the following effect this turn: \"TRIGGER Valid: At the end of this turn, your opponent must select and discard 1 Character they control.\"",
+          "rarity": "Secret Rare",
+          "cardNumber": "0115",
+          "cardType": "Character",
+          "handCost": "1",
+          "turnCount": 6,
+          "skill": "MECHA",
+          "healthy": "7/0",
+          "injured": "5/0",
+          "image": "https://api.primaltcg.com/uploads/2025-01-04T01:22:29.280ZC0115F.png",
+          "cardSet": "Battlers of Bethesda",
+          "createdAt": "2025-01-04T01:22:29.296Z",
+          "updatedAt": "2025-01-04T01:22:29.296Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Air",
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f8900ff7060f0552b691",
+          "owned": [],
+          "wanted": [],
+          "name": "Synthetic Research",
+          "text": "Move the top 2 cards of your deck under your Field card face up, and if you do, draw 2 cards. If your Field area is empty, draw 2 cards instead.\u0003\u0003\u0003\u0003",
+          "rarity": "Starter",
+          "cardNumber": "S0095",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 2,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:16:16.572ZS0095.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7f8900ff7060f0552b691"
+              ],
+              "_id": "66a7f8900ff7060f0552b692",
+              "name": "Woutergort",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:16:16.602Z",
+              "updatedAt": "2024-07-29T20:16:16.602Z",
+              "__v": 0
+          },
+          "metadata": "Some pirates can't imagine being in the Cayne Pirates because most of the crew members are evil girls. They say that the female pirates are succubi that suck out the blood from all the male crew members. They think \"How can anything get done in that ship!\" \n\n",
+          "createdAt": "2024-07-29T20:16:16.597Z",
+          "updatedAt": "2024-07-29T20:16:16.597Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Air",
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f8900ff7060f0552b691",
+          "owned": [],
+          "wanted": [],
+          "name": "Synthetic Research",
+          "text": "Move the top 2 cards of your deck under your Field card face up, and if you do, draw 2 cards. If your Field area is empty, draw 2 cards instead.\u0003\u0003\u0003\u0003",
+          "rarity": "Starter",
+          "cardNumber": "S0095",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 2,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:16:16.572ZS0095.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7f8900ff7060f0552b691"
+              ],
+              "_id": "66a7f8900ff7060f0552b692",
+              "name": "Woutergort",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:16:16.602Z",
+              "updatedAt": "2024-07-29T20:16:16.602Z",
+              "__v": 0
+          },
+          "metadata": "Some pirates can't imagine being in the Cayne Pirates because most of the crew members are evil girls. They say that the female pirates are succubi that suck out the blood from all the male crew members. They think \"How can anything get done in that ship!\" \n\n",
+          "createdAt": "2024-07-29T20:16:16.597Z",
+          "updatedAt": "2024-07-29T20:16:16.597Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Air",
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f8900ff7060f0552b691",
+          "owned": [],
+          "wanted": [],
+          "name": "Synthetic Research",
+          "text": "Move the top 2 cards of your deck under your Field card face up, and if you do, draw 2 cards. If your Field area is empty, draw 2 cards instead.\u0003\u0003\u0003\u0003",
+          "rarity": "Starter",
+          "cardNumber": "S0095",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 2,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:16:16.572ZS0095.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7f8900ff7060f0552b691"
+              ],
+              "_id": "66a7f8900ff7060f0552b692",
+              "name": "Woutergort",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:16:16.602Z",
+              "updatedAt": "2024-07-29T20:16:16.602Z",
+              "__v": 0
+          },
+          "metadata": "Some pirates can't imagine being in the Cayne Pirates because most of the crew members are evil girls. They say that the female pirates are succubi that suck out the blood from all the male crew members. They think \"How can anything get done in that ship!\" \n\n",
+          "createdAt": "2024-07-29T20:16:16.597Z",
+          "updatedAt": "2024-07-29T20:16:16.597Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66fc5e5cbbb40006cdb4f5bf",
+          "owned": [],
+          "wanted": [],
+          "name": "Rubbish",
+          "text": "Counter\u0003Target: 1 Character you control and 1 Character your opponent controls  Discard the target.",
+          "rarity": "Common",
+          "cardNumber": "S0051",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 4,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-10-02T16:22:43.311ZS0051.png",
+          "cardSet": "Battlers of Bethesda",
+          "artist": {
+              "illustrations": [
+                  "66fc4ce4bbb40006cdb4f558",
+                  "66fc4ce8bbb40006cdb4f55a",
+                  "66fc56a4bbb40006cdb4f5b2",
+                  "66fc5e4cbbb40006cdb4f5b9",
+                  "66fc5e50bbb40006cdb4f5ba",
+                  "66fc5e5cbbb40006cdb4f5bf",
+                  "66fc5eccbbb40006cdb4f5f1",
+                  "66fc5edcbbb40006cdb4f5f6",
+                  "684196f9e269d50fc8748fac"
+              ],
+              "_id": "66fc4ce4bbb40006cdb4f559",
+              "name": "Temmaru",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T19:26:28.491Z",
+              "updatedAt": "2025-06-05T13:09:13.583Z",
+              "__v": 8
+          },
+          "metadata": "Some pirates can't imagine being in the Cayne Pirates because most of the crew members are evil girls. They say that the female pirates are succubi that suck out the blood from all the male crew members. They think \"How can anything get done in that ship!\" \n\n",
+          "createdAt": "2024-10-01T20:41:00.008Z",
+          "updatedAt": "2024-10-02T16:22:43.357Z",
+          "__v": 1
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66fc5e5cbbb40006cdb4f5bf",
+          "owned": [],
+          "wanted": [],
+          "name": "Rubbish",
+          "text": "Counter\u0003Target: 1 Character you control and 1 Character your opponent controls  Discard the target.",
+          "rarity": "Common",
+          "cardNumber": "S0051",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 4,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-10-02T16:22:43.311ZS0051.png",
+          "cardSet": "Battlers of Bethesda",
+          "artist": {
+              "illustrations": [
+                  "66fc4ce4bbb40006cdb4f558",
+                  "66fc4ce8bbb40006cdb4f55a",
+                  "66fc56a4bbb40006cdb4f5b2",
+                  "66fc5e4cbbb40006cdb4f5b9",
+                  "66fc5e50bbb40006cdb4f5ba",
+                  "66fc5e5cbbb40006cdb4f5bf",
+                  "66fc5eccbbb40006cdb4f5f1",
+                  "66fc5edcbbb40006cdb4f5f6",
+                  "684196f9e269d50fc8748fac"
+              ],
+              "_id": "66fc4ce4bbb40006cdb4f559",
+              "name": "Temmaru",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T19:26:28.491Z",
+              "updatedAt": "2025-06-05T13:09:13.583Z",
+              "__v": 8
+          },
+          "metadata": "Some pirates can't imagine being in the Cayne Pirates because most of the crew members are evil girls. They say that the female pirates are succubi that suck out the blood from all the male crew members. They think \"How can anything get done in that ship!\" \n\n",
+          "createdAt": "2024-10-01T20:41:00.008Z",
+          "updatedAt": "2024-10-02T16:22:43.357Z",
+          "__v": 1
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68423510211afb06fc2115d4",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Intel Gathering",
+          "text": "TRIGGER  When this card leaves play, draw 1 card. ACTIVATE  [Your Turn | Main]     : Draw 1 card, then move 1 card from your hand to the top or bottom of your deck.\u0003\u0003 Permanent (3)\u0003\u0003",
+          "rarity": "Common",
+          "cardNumber": "S0104",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 0,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-06T00:23:44.807ZS0104.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "68419dc1e269d50fc8748fc4",
+                  "68419de0e269d50fc8748fcd",
+                  "68419de5e269d50fc8748fce",
+                  "68419defe269d50fc8748fd1",
+                  "68419df9e269d50fc8748fd4",
+                  "6841fc26211afb06fc211460",
+                  "684234eb211afb06fc2115c4",
+                  "68423510211afb06fc2115d4"
+              ],
+              "_id": "68419dc1e269d50fc8748fc5",
+              "name": "Klepon",
+              "link": "http://primaltcg.com",
+              "createdAt": "2025-06-05T13:38:09.999Z",
+              "updatedAt": "2025-06-06T00:23:44.846Z",
+              "__v": 7
+          },
+          "createdAt": "2025-06-06T00:23:44.833Z",
+          "updatedAt": "2025-06-06T00:23:44.833Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68423510211afb06fc2115d4",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Intel Gathering",
+          "text": "TRIGGER  When this card leaves play, draw 1 card. ACTIVATE  [Your Turn | Main]     : Draw 1 card, then move 1 card from your hand to the top or bottom of your deck.\u0003\u0003 Permanent (3)\u0003\u0003",
+          "rarity": "Common",
+          "cardNumber": "S0104",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 0,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-06T00:23:44.807ZS0104.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "68419dc1e269d50fc8748fc4",
+                  "68419de0e269d50fc8748fcd",
+                  "68419de5e269d50fc8748fce",
+                  "68419defe269d50fc8748fd1",
+                  "68419df9e269d50fc8748fd4",
+                  "6841fc26211afb06fc211460",
+                  "684234eb211afb06fc2115c4",
+                  "68423510211afb06fc2115d4"
+              ],
+              "_id": "68419dc1e269d50fc8748fc5",
+              "name": "Klepon",
+              "link": "http://primaltcg.com",
+              "createdAt": "2025-06-05T13:38:09.999Z",
+              "updatedAt": "2025-06-06T00:23:44.846Z",
+              "__v": 7
+          },
+          "createdAt": "2025-06-06T00:23:44.833Z",
+          "updatedAt": "2025-06-06T00:23:44.833Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68423510211afb06fc2115d4",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Intel Gathering",
+          "text": "TRIGGER  When this card leaves play, draw 1 card. ACTIVATE  [Your Turn | Main]     : Draw 1 card, then move 1 card from your hand to the top or bottom of your deck.\u0003\u0003 Permanent (3)\u0003\u0003",
+          "rarity": "Common",
+          "cardNumber": "S0104",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 0,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-06T00:23:44.807ZS0104.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "68419dc1e269d50fc8748fc4",
+                  "68419de0e269d50fc8748fcd",
+                  "68419de5e269d50fc8748fce",
+                  "68419defe269d50fc8748fd1",
+                  "68419df9e269d50fc8748fd4",
+                  "6841fc26211afb06fc211460",
+                  "684234eb211afb06fc2115c4",
+                  "68423510211afb06fc2115d4"
+              ],
+              "_id": "68419dc1e269d50fc8748fc5",
+              "name": "Klepon",
+              "link": "http://primaltcg.com",
+              "createdAt": "2025-06-05T13:38:09.999Z",
+              "updatedAt": "2025-06-06T00:23:44.846Z",
+              "__v": 7
+          },
+          "createdAt": "2025-06-06T00:23:44.833Z",
+          "updatedAt": "2025-06-06T00:23:44.833Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire",
+              "Plasma"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "655bc5b6bc773b7430ad7b66",
+          "owned": [],
+          "wanted": [],
+          "name": "Collateral Damage",
+          "text": "Search your deck for 1             or                      Character card with a Turn Cost of 1 or less and add it to your hand.   FIRE         PLASMA",
+          "rarity": "Rare",
+          "cardNumber": "S0036",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 1,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-04-21T03:29:28.724ZS0036.png",
+          "cardSet": "Awakened Primordials",
+          "artist": {
+              "illustrations": [
+                  "5fb0a581b033d3586904eb2a",
+                  "5fb0a585b033d3586904eb2b",
+                  "5fb0a58ab033d3586904eb2d",
+                  "5fb0a591b033d3586904eb2f",
+                  "5fb0a594b033d3586904eb30",
+                  "5fb0a59db033d3586904eb32",
+                  "5fb15aa6b033d3586904eba6",
+                  "5fb0a635b033d3586904eb65",
+                  "5fb0c2e5b033d3586904eb9e",
+                  "5fb0a4fcb033d3586904eb07",
+                  "5fb0a544b033d3586904eb1f",
+                  "5fb0a46fb033d3586904eae3",
+                  "5fb0a55ab033d3586904eb26",
+                  "5fb0a554b033d3586904eb24",
+                  "5fb0a4c3b033d3586904eaff",
+                  "62ec27546e83c37f9d088048",
+                  "5fb0a4c0b033d3586904eafe",
+                  "642de208c3eb8a2773748391",
+                  "643e06d1c3eb8a2773748a1d",
+                  "643e07c1c3eb8a2773748a27",
+                  "644bf0fac3eb8a2773749768",
+                  "655bc2b3bc773b7430ad7aaa",
+                  "655bc2b7bc773b7430ad7aab",
+                  "655bc2bdbc773b7430ad7aad",
+                  "655bc2c3bc773b7430ad7aaf",
+                  "655bc2c6bc773b7430ad7ab0",
+                  "655bc2ccbc773b7430ad7ab2",
+                  "655bc2cfbc773b7430ad7ab3",
+                  "655bc35dbc773b7430ad7ae1",
+                  "655bc381bc773b7430ad7aed",
+                  "655bc4a5bc773b7430ad7b14",
+                  "655bc4ffbc773b7430ad7b32",
+                  "655bc503bc773b7430ad7b33",
+                  "655bc515bc773b7430ad7b39",
+                  "655bc54fbc773b7430ad7b44",
+                  "655bc552bc773b7430ad7b45",
+                  "655bc5adbc773b7430ad7b63",
+                  "655bc5b3bc773b7430ad7b65",
+                  "655bc5b6bc773b7430ad7b66",
+                  "66fc4d35bbb40006cdb4f581",
+                  "68423515211afb06fc2115d5"
+              ],
+              "_id": "619ea161aa40d30378f41900",
+              "name": "Armando Morillo",
+              "link": "https://www.deviantart.com/llswaggerll",
+              "createdAt": "2021-11-24T20:32:33.690Z",
+              "updatedAt": "2025-06-06T00:23:49.931Z",
+              "__v": 40
+          },
+          "createdAt": "2023-11-20T20:46:46.473Z",
+          "updatedAt": "2024-04-21T03:29:28.765Z",
+          "__v": 1,
+          "metadata": ""
+      },
+      {
+          "element": [
+              "Fire",
+              "Plasma"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "655bc5b6bc773b7430ad7b66",
+          "owned": [],
+          "wanted": [],
+          "name": "Collateral Damage",
+          "text": "Search your deck for 1             or                      Character card with a Turn Cost of 1 or less and add it to your hand.   FIRE         PLASMA",
+          "rarity": "Rare",
+          "cardNumber": "S0036",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 1,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-04-21T03:29:28.724ZS0036.png",
+          "cardSet": "Awakened Primordials",
+          "artist": {
+              "illustrations": [
+                  "5fb0a581b033d3586904eb2a",
+                  "5fb0a585b033d3586904eb2b",
+                  "5fb0a58ab033d3586904eb2d",
+                  "5fb0a591b033d3586904eb2f",
+                  "5fb0a594b033d3586904eb30",
+                  "5fb0a59db033d3586904eb32",
+                  "5fb15aa6b033d3586904eba6",
+                  "5fb0a635b033d3586904eb65",
+                  "5fb0c2e5b033d3586904eb9e",
+                  "5fb0a4fcb033d3586904eb07",
+                  "5fb0a544b033d3586904eb1f",
+                  "5fb0a46fb033d3586904eae3",
+                  "5fb0a55ab033d3586904eb26",
+                  "5fb0a554b033d3586904eb24",
+                  "5fb0a4c3b033d3586904eaff",
+                  "62ec27546e83c37f9d088048",
+                  "5fb0a4c0b033d3586904eafe",
+                  "642de208c3eb8a2773748391",
+                  "643e06d1c3eb8a2773748a1d",
+                  "643e07c1c3eb8a2773748a27",
+                  "644bf0fac3eb8a2773749768",
+                  "655bc2b3bc773b7430ad7aaa",
+                  "655bc2b7bc773b7430ad7aab",
+                  "655bc2bdbc773b7430ad7aad",
+                  "655bc2c3bc773b7430ad7aaf",
+                  "655bc2c6bc773b7430ad7ab0",
+                  "655bc2ccbc773b7430ad7ab2",
+                  "655bc2cfbc773b7430ad7ab3",
+                  "655bc35dbc773b7430ad7ae1",
+                  "655bc381bc773b7430ad7aed",
+                  "655bc4a5bc773b7430ad7b14",
+                  "655bc4ffbc773b7430ad7b32",
+                  "655bc503bc773b7430ad7b33",
+                  "655bc515bc773b7430ad7b39",
+                  "655bc54fbc773b7430ad7b44",
+                  "655bc552bc773b7430ad7b45",
+                  "655bc5adbc773b7430ad7b63",
+                  "655bc5b3bc773b7430ad7b65",
+                  "655bc5b6bc773b7430ad7b66",
+                  "66fc4d35bbb40006cdb4f581",
+                  "68423515211afb06fc2115d5"
+              ],
+              "_id": "619ea161aa40d30378f41900",
+              "name": "Armando Morillo",
+              "link": "https://www.deviantart.com/llswaggerll",
+              "createdAt": "2021-11-24T20:32:33.690Z",
+              "updatedAt": "2025-06-06T00:23:49.931Z",
+              "__v": 40
+          },
+          "createdAt": "2023-11-20T20:46:46.473Z",
+          "updatedAt": "2024-04-21T03:29:28.765Z",
+          "__v": 1,
+          "metadata": ""
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Synthetic Life"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f7940ff7060f0552b685",
+          "owned": [],
+          "wanted": [],
+          "name": "X - SL37",
+          "text": "ACTIVATE  [Your Turn | Main] Move this card \u0003from your hand under your Field card face \u0003up: If your Field card has the name 'Synthetic \u0003Laboratory', move 1 card from under your \u0003Field card to your hand. ACTIVATE Yellow CAMOUFLAGE",
+          "rarity": "Starter",
+          "cardNumber": "C0182",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 2,
+          "skill": "BIO",
+          "healthy": "0/3",
+          "injured": "0/1",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:12:04.944ZC0182.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7f7940ff7060f0552b685"
+              ],
+              "_id": "66a7f7950ff7060f0552b686",
+              "name": "C69Baker",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:12:05.039Z",
+              "updatedAt": "2024-07-29T20:12:05.039Z",
+              "__v": 0
+          },
+          "createdAt": "2024-07-29T20:12:05.025Z",
+          "updatedAt": "2024-07-29T20:12:05.025Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [
+              "Synthetic Life"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f7940ff7060f0552b685",
+          "owned": [],
+          "wanted": [],
+          "name": "X - SL37",
+          "text": "ACTIVATE  [Your Turn | Main] Move this card \u0003from your hand under your Field card face \u0003up: If your Field card has the name 'Synthetic \u0003Laboratory', move 1 card from under your \u0003Field card to your hand. ACTIVATE Yellow CAMOUFLAGE",
+          "rarity": "Starter",
+          "cardNumber": "C0182",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 2,
+          "skill": "BIO",
+          "healthy": "0/3",
+          "injured": "0/1",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:12:04.944ZC0182.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7f7940ff7060f0552b685"
+              ],
+              "_id": "66a7f7950ff7060f0552b686",
+              "name": "C69Baker",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:12:05.039Z",
+              "updatedAt": "2024-07-29T20:12:05.039Z",
+              "__v": 0
+          },
+          "createdAt": "2024-07-29T20:12:05.025Z",
+          "updatedAt": "2024-07-29T20:12:05.025Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [
+              "X",
+              "F"
+          ],
+          "playable": true,
+          "errata": false,
+          "_id": "6841a121e269d50fc8749039",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Lion Fire Armor Star",
+          "text": "Requirements: {Zodiac} + {Warrior}\u0003Target: 1 Character opposing the user \u0003\u0003Detach       Character cards with {Robot} from the user, and if you do, deal        Damage to the target.  \u0003\u0003\u0003",
+          "rarity": "Rare",
+          "cardNumber": "A0098",
+          "cardType": "Ability",
+          "handCost": "",
+          "turnCount": null,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:52:33.480ZA0098.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:52:33.530Z",
+          "updatedAt": "2025-06-05T13:52:33.530Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [
+              "X",
+              "F"
+          ],
+          "playable": true,
+          "errata": false,
+          "_id": "6841a121e269d50fc8749039",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Lion Fire Armor Star",
+          "text": "Requirements: {Zodiac} + {Warrior}\u0003Target: 1 Character opposing the user \u0003\u0003Detach       Character cards with {Robot} from the user, and if you do, deal        Damage to the target.  \u0003\u0003\u0003",
+          "rarity": "Rare",
+          "cardNumber": "A0098",
+          "cardType": "Ability",
+          "handCost": "",
+          "turnCount": null,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:52:33.480ZA0098.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "66fc564ebbb40006cdb4f58a",
+                  "66fc565dbbb40006cdb4f592",
+                  "68419dcce269d50fc8748fc8",
+                  "68419ddbe269d50fc8748fcc",
+                  "68419dfee269d50fc8748fd5",
+                  "68419e26e269d50fc8748fde",
+                  "68419e3ae269d50fc8748fe2",
+                  "68419e3fe269d50fc8748fe3",
+                  "68419e5ee269d50fc8748fe9",
+                  "68419e86e269d50fc8748ff1",
+                  "68419e90e269d50fc8748ff3",
+                  "68419ec2e269d50fc8749001",
+                  "68419f63e269d50fc8749022",
+                  "68419f86e269d50fc874902a",
+                  "6841a121e269d50fc8749039"
+              ],
+              "_id": "66fc564ebbb40006cdb4f58b",
+              "name": "Innovator123",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T20:06:38.122Z",
+              "updatedAt": "2025-06-05T13:52:33.532Z",
+              "__v": 14
+          },
+          "createdAt": "2025-06-05T13:52:33.530Z",
+          "updatedAt": "2025-06-05T13:52:33.530Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66fc5edcbbb40006cdb4f5f6",
+          "owned": [],
+          "wanted": [],
+          "name": "Fierce Clash",
+          "text": "ONGOING Discard 1 card from your hand, and if you do, draw 3 cards.",
+          "rarity": "Super Rare",
+          "cardNumber": "S0093",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 3,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-10-01T20:43:08.023ZS0093.png",
+          "cardSet": "Battlers of Bethesda",
+          "artist": {
+              "illustrations": [
+                  "66fc4ce4bbb40006cdb4f558",
+                  "66fc4ce8bbb40006cdb4f55a",
+                  "66fc56a4bbb40006cdb4f5b2",
+                  "66fc5e4cbbb40006cdb4f5b9",
+                  "66fc5e50bbb40006cdb4f5ba",
+                  "66fc5e5cbbb40006cdb4f5bf",
+                  "66fc5eccbbb40006cdb4f5f1",
+                  "66fc5edcbbb40006cdb4f5f6",
+                  "684196f9e269d50fc8748fac"
+              ],
+              "_id": "66fc4ce4bbb40006cdb4f559",
+              "name": "Temmaru",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T19:26:28.491Z",
+              "updatedAt": "2025-06-05T13:09:13.583Z",
+              "__v": 8
+          },
+          "metadata": "Some pirates can't imagine being in the Cayne Pirates because most of the crew members are evil girls. They say that the female pirates are succubi that suck out the blood from all the male crew members. They think \"How can anything get done in that ship!\" \n\n",
+          "createdAt": "2024-10-01T20:43:08.034Z",
+          "updatedAt": "2024-10-01T20:43:08.034Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire",
+              "Air"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f8840ff7060f0552b68f",
+          "owned": [],
+          "wanted": [],
+          "name": "Masterminds",
+          "text": "ONGOING Search your deck for 1 Character card with {Zoltan} and a Turn Cost lower than your Turn Marker OR 1 Character card with <BIO> and move it to your hand.",
+          "rarity": "Starter",
+          "cardNumber": "S0094",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 2,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:16:04.757ZS0094.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7f8840ff7060f0552b68f"
+              ],
+              "_id": "66a7f8840ff7060f0552b690",
+              "name": "Dattebayo Lab",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:16:04.786Z",
+              "updatedAt": "2024-07-29T20:16:04.786Z",
+              "__v": 0
+          },
+          "metadata": "Some pirates can't imagine being in the Cayne Pirates because most of the crew members are evil girls. They say that the female pirates are succubi that suck out the blood from all the male crew members. They think \"How can anything get done in that ship!\" \n\n",
+          "createdAt": "2024-07-29T20:16:04.782Z",
+          "updatedAt": "2024-07-29T20:16:04.782Z",
+          "__v": 0
+      },
+      {
+          "element": [],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68423ded211afb06fc2115e3",
+          "owned": [],
+          "wanted": [],
+          "name": "Big Red Button",
+          "text": "Target: 1 Character card with {Robot} in your DP\r\nIf your Field card has a FIRE Symbol, select Character cards with <MECHA> in your DP whose combined Turn Costs equal the target's Turn Cost times 2, and if you do, shuffle the selected cards into your deck and put the target in play.",
+          "rarity": "Promo",
+          "cardNumber": "PR-0014",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "image": "https://api.primaltcg.com/uploads/2025-06-06T01:01:33.146ZPR0014.png",
+          "cardSet": "Promo",
+          "createdAt": "2025-06-06T01:01:33.179Z",
+          "updatedAt": "2025-06-06T01:01:33.179Z",
+          "__v": 0
+      },
+      {
+          "element": [],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68423ded211afb06fc2115e3",
+          "owned": [],
+          "wanted": [],
+          "name": "Big Red Button",
+          "text": "Target: 1 Character card with {Robot} in your DP\r\nIf your Field card has a FIRE Symbol, select Character cards with <MECHA> in your DP whose combined Turn Costs equal the target's Turn Cost times 2, and if you do, shuffle the selected cards into your deck and put the target in play.",
+          "rarity": "Promo",
+          "cardNumber": "PR-0014",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "image": "https://api.primaltcg.com/uploads/2025-06-06T01:01:33.146ZPR0014.png",
+          "cardSet": "Promo",
+          "createdAt": "2025-06-06T01:01:33.179Z",
+          "updatedAt": "2025-06-06T01:01:33.179Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [
+              "1",
+              "F",
+              "F"
+          ],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f9f20ff7060f0552b69c",
+          "owned": [],
+          "wanted": [],
+          "name": "Fire Crystal Heat Aura",
+          "text": "Requirements: \u0003Target: 1 Character opposing the user     During this turn, when the target would move to the Discard Pile, you may move it under your Field card face up instead. Expert [Turn Cost of 3 or higher]: Discard the target.",
+          "rarity": "Starter",
+          "cardNumber": "A0077",
+          "cardType": "Ability",
+          "handCost": "",
+          "turnCount": null,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:23:30.644ZA0077.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7e00086c4370c9fd286a9",
+                  "66a7e57886c4370c9fd286ab",
+                  "66a7f79e0ff7060f0552b687",
+                  "66a7f9f20ff7060f0552b69c",
+                  "66a7f9fc0ff7060f0552b69d",
+                  "66a7fa250ff7060f0552b69e",
+                  "684196e0e269d50fc8748fa4",
+                  "68419ecce269d50fc8749003"
+              ],
+              "_id": "66a7e00086c4370c9fd286aa",
+              "name": "Nox",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T18:31:28.567Z",
+              "updatedAt": "2025-06-05T13:42:36.519Z",
+              "__v": 7
+          },
+          "createdAt": "2024-07-29T20:22:10.293Z",
+          "updatedAt": "2024-07-29T20:23:30.670Z",
+          "__v": 1,
+          "metadata": ""
+      },
+      {
+          "element": [
+              "Fire"
+          ],
+          "characteristic": [],
+          "abilityCost": [
+              "1",
+              "F",
+              "F"
+          ],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7f9f20ff7060f0552b69c",
+          "owned": [],
+          "wanted": [],
+          "name": "Fire Crystal Heat Aura",
+          "text": "Requirements: \u0003Target: 1 Character opposing the user     During this turn, when the target would move to the Discard Pile, you may move it under your Field card face up instead. Expert [Turn Cost of 3 or higher]: Discard the target.",
+          "rarity": "Starter",
+          "cardNumber": "A0077",
+          "cardType": "Ability",
+          "handCost": "",
+          "turnCount": null,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:23:30.644ZA0077.png",
+          "cardSet": "Zoltan Strike ST03",
+          "artist": {
+              "illustrations": [
+                  "66a7e00086c4370c9fd286a9",
+                  "66a7e57886c4370c9fd286ab",
+                  "66a7f79e0ff7060f0552b687",
+                  "66a7f9f20ff7060f0552b69c",
+                  "66a7f9fc0ff7060f0552b69d",
+                  "66a7fa250ff7060f0552b69e",
+                  "684196e0e269d50fc8748fa4",
+                  "68419ecce269d50fc8749003"
+              ],
+              "_id": "66a7e00086c4370c9fd286aa",
+              "name": "Nox",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T18:31:28.567Z",
+              "updatedAt": "2025-06-05T13:42:36.519Z",
+              "__v": 7
+          },
+          "createdAt": "2024-07-29T20:22:10.293Z",
+          "updatedAt": "2024-07-29T20:23:30.670Z",
+          "__v": 1,
+          "metadata": ""
+      },
+      {
+          "element": [
+              "Air"
+          ],
+          "characteristic": [
+              "Female",
+              "Therian",
+              "Mystic"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66fc4ca5bbb40006cdb4f537",
+          "owned": [],
+          "wanted": [],
+          "name": "Healing Spirit Janna",
+          "text": "ACTIVATE  Target: 1 Injured Character \u0003[Main | EOA] Move this card from your hand \u0003to your Essence area: If your Field card has \u0003an           Symbol, Heal the target.   AIR ACTIVATE Green 1",
+          "rarity": "Common",
+          "cardNumber": "C0124",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "BETHESDA",
+          "healthy": "1/1",
+          "injured": "1/1",
+          "image": "https://api.primaltcg.com/uploads/2024-10-01T19:25:25.740ZC0124.png",
+          "cardSet": "Battlers of Bethesda",
+          "artist": {
+              "illustrations": [
+                  "66fc4ca5bbb40006cdb4f537",
+                  "66fc4ca6bbb40006cdb4f539"
+              ],
+              "_id": "66fc4ca5bbb40006cdb4f538",
+              "name": "Ryuko",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T19:25:25.755Z",
+              "updatedAt": "2024-10-01T19:25:26.142Z",
+              "__v": 1
+          },
+          "createdAt": "2024-10-01T19:25:25.754Z",
+          "updatedAt": "2024-10-01T19:25:25.754Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Air"
+          ],
+          "characteristic": [
+              "Female",
+              "Therian",
+              "Mystic"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "66fc4ca5bbb40006cdb4f537",
+          "owned": [],
+          "wanted": [],
+          "name": "Healing Spirit Janna",
+          "text": "ACTIVATE  Target: 1 Injured Character \u0003[Main | EOA] Move this card from your hand \u0003to your Essence area: If your Field card has \u0003an           Symbol, Heal the target.   AIR ACTIVATE Green 1",
+          "rarity": "Common",
+          "cardNumber": "C0124",
+          "cardType": "Character",
+          "handCost": "0",
+          "turnCount": 0,
+          "skill": "BETHESDA",
+          "healthy": "1/1",
+          "injured": "1/1",
+          "image": "https://api.primaltcg.com/uploads/2024-10-01T19:25:25.740ZC0124.png",
+          "cardSet": "Battlers of Bethesda",
+          "artist": {
+              "illustrations": [
+                  "66fc4ca5bbb40006cdb4f537",
+                  "66fc4ca6bbb40006cdb4f539"
+              ],
+              "_id": "66fc4ca5bbb40006cdb4f538",
+              "name": "Ryuko",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-10-01T19:25:25.755Z",
+              "updatedAt": "2024-10-01T19:25:26.142Z",
+              "__v": 1
+          },
+          "createdAt": "2024-10-01T19:25:25.754Z",
+          "updatedAt": "2024-10-01T19:25:25.754Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Air"
+          ],
+          "characteristic": [],
+          "abilityCost": [
+              "0 Cost"
+          ],
+          "playable": true,
+          "errata": false,
+          "_id": "66a7fecc0ff7060f0552b6aa",
+          "owned": [
+              {
+                  "forSale": true,
+                  "_id": "66b245640ff7060f0552facb",
+                  "amount": "1 ",
+                  "value": 75,
+                  "user": "66b0c3f40ff7060f0552f627"
+              }
+          ],
+          "wanted": [
+              {
+                  "forSale": true,
+                  "_id": "66c7185a0ff7060f05533ca7",
+                  "amount": "1 ",
+                  "value": 10,
+                  "user": "66944d5f2ec07d2053dc1e4b"
+              },
+              {
+                  "forSale": true,
+                  "_id": "66f35005bbb40006cdb4d9fe",
+                  "amount": "2 ",
+                  "value": 25,
+                  "user": "65bb450dbc773b7430ada9ea"
+              }
+          ],
+          "name": "Little Devil",
+          "text": "( ACTIVATE  [Opponent’s Turn | Main | EOA] Discard this card from your hand: Negate 1 card or effect on the chain that would search the deck for a card or put any Character cards in play.)\u0003\u0003 Move this card to the bottom of your deck, and if you do, draw 1 card.",
+          "rarity": "Promo",
+          "cardNumber": "PR0004",
+          "cardType": "Ability",
+          "handCost": "",
+          "turnCount": null,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2024-07-29T20:42:52.301ZPR0004.png",
+          "cardSet": "Promo",
+          "artist": {
+              "illustrations": [
+                  "66a7fecc0ff7060f0552b6aa"
+              ],
+              "_id": "66a7fecc0ff7060f0552b6ab",
+              "name": "SUK1J1",
+              "link": "http://primaltcg.com",
+              "createdAt": "2024-07-29T20:42:52.326Z",
+              "updatedAt": "2024-07-29T20:42:52.326Z",
+              "__v": 0
+          },
+          "createdAt": "2024-07-29T20:42:52.323Z",
+          "updatedAt": "2024-09-24T23:49:25.521Z",
+          "__v": 3
+      },
+      {
+          "element": [
+              "Plasma"
+          ],
+          "characteristic": [
+              "Symbiote"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "655bc38dbc773b7430ad7af1",
+          "owned": [
+              {
+                  "forSale": false,
+                  "_id": "6621ab0e66a3bd4e5d7f85c1",
+                  "amount": "1 ",
+                  "value": 1,
+                  "user": "6621aa1766a3bd4e5d7f85bf"
+              },
+              {
+                  "forSale": false,
+                  "_id": "662a76aa66a3bd4e5d7fb418",
+                  "amount": "1 ",
+                  "value": 60,
+                  "user": "62e96ef411d4d4530231ba0c"
+              },
+              {
+                  "forSale": false,
+                  "_id": "6633778166a3bd4e5d7fcdb5",
+                  "amount": "1 ",
+                  "value": 0,
+                  "user": "662dbe6d66a3bd4e5d7fc33f"
+              },
+              {
+                  "forSale": false,
+                  "_id": "669388032ec07d2053dc1c04",
+                  "amount": "1 ",
+                  "value": 100,
+                  "user": "6663c05e2ec07d2053db9b0f"
+              },
+              {
+                  "forSale": false,
+                  "_id": "66a9a3b10ff7060f0552be85",
+                  "amount": "1 ",
+                  "value": 0,
+                  "user": "669434d02ec07d2053dc1dda"
+              }
+          ],
+          "wanted": [
+              {
+                  "forSale": true,
+                  "playable": true,
+                  "errata": false,
+                  "_id": "66275b1a66a3bd4e5d7f9fc8",
+                  "amount": "1 ",
+                  "value": 50,
+                  "user": "660fa9a066a3bd4e5d7f7bbe"
+              },
+              {
+                  "forSale": true,
+                  "playable": true,
+                  "errata": false,
+                  "_id": "6629043a66a3bd4e5d7fa3d0",
+                  "amount": "1 ",
+                  "value": 100,
+                  "user": "662903fc66a3bd4e5d7fa3cf"
+              },
+              {
+                  "forSale": true,
+                  "playable": true,
+                  "errata": false,
+                  "_id": "6633784566a3bd4e5d7fcdc2",
+                  "amount": "2 ",
+                  "value": 0,
+                  "user": "662dbe6d66a3bd4e5d7fc33f"
+              },
+              {
+                  "forSale": true,
+                  "_id": "666efea62ec07d2053dbbab4",
+                  "amount": "2 ",
+                  "value": 35,
+                  "user": "666523032ec07d2053db9dcc"
+              },
+              {
+                  "forSale": true,
+                  "_id": "671c9714072317173e8bbf02",
+                  "amount": "3 ",
+                  "value": 0,
+                  "user": "671bfeea072317173e8bbda4"
+              }
+          ],
+          "name": "Raikiri",
+          "text": "TRANSFORMATION (’Richie’) ACTIVATE [Opponent’s Turn | Main | EOA] Discard this Character card from your hand: Target 1 Trigger or \u0003Activate effect on the chain and negate it during this turn. ONGOING This Character card may use \u0003TRANSFORMATION from your Discard Pile.",
+          "rarity": "Legendary Rare",
+          "cardNumber": "C0065L",
+          "cardType": "Character",
+          "handCost": "2",
+          "turnCount": 6,
+          "skill": "DRAGON",
+          "healthy": "6/3",
+          "injured": "3/2",
+          "image": "https://api.primaltcg.com/uploads/2024-05-08T15:39:10.889ZC0065L.png",
+          "cardSet": "Awakened Primordials",
+          "artist": {
+              "illustrations": [
+                  "655bc38dbc773b7430ad7af1"
+              ],
+              "_id": "655bc38dbc773b7430ad7af2",
+              "name": "Dragolisco",
+              "link": "http://primaltcg.com",
+              "createdAt": "2023-11-20T20:37:33.834Z",
+              "updatedAt": "2023-11-20T20:37:33.834Z",
+              "__v": 0
+          },
+          "createdAt": "2023-11-20T20:37:33.828Z",
+          "updatedAt": "2025-08-10T16:13:31.498Z",
+          "__v": 11,
+          "metadata": ""
+      },
+      {
+          "element": [
+              "Plasma"
+          ],
+          "characteristic": [
+              "Symbiote"
+          ],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "655bc38dbc773b7430ad7af1",
+          "owned": [
+              {
+                  "forSale": false,
+                  "_id": "6621ab0e66a3bd4e5d7f85c1",
+                  "amount": "1 ",
+                  "value": 1,
+                  "user": "6621aa1766a3bd4e5d7f85bf"
+              },
+              {
+                  "forSale": false,
+                  "_id": "662a76aa66a3bd4e5d7fb418",
+                  "amount": "1 ",
+                  "value": 60,
+                  "user": "62e96ef411d4d4530231ba0c"
+              },
+              {
+                  "forSale": false,
+                  "_id": "6633778166a3bd4e5d7fcdb5",
+                  "amount": "1 ",
+                  "value": 0,
+                  "user": "662dbe6d66a3bd4e5d7fc33f"
+              },
+              {
+                  "forSale": false,
+                  "_id": "669388032ec07d2053dc1c04",
+                  "amount": "1 ",
+                  "value": 100,
+                  "user": "6663c05e2ec07d2053db9b0f"
+              },
+              {
+                  "forSale": false,
+                  "_id": "66a9a3b10ff7060f0552be85",
+                  "amount": "1 ",
+                  "value": 0,
+                  "user": "669434d02ec07d2053dc1dda"
+              }
+          ],
+          "wanted": [
+              {
+                  "forSale": true,
+                  "playable": true,
+                  "errata": false,
+                  "_id": "66275b1a66a3bd4e5d7f9fc8",
+                  "amount": "1 ",
+                  "value": 50,
+                  "user": "660fa9a066a3bd4e5d7f7bbe"
+              },
+              {
+                  "forSale": true,
+                  "playable": true,
+                  "errata": false,
+                  "_id": "6629043a66a3bd4e5d7fa3d0",
+                  "amount": "1 ",
+                  "value": 100,
+                  "user": "662903fc66a3bd4e5d7fa3cf"
+              },
+              {
+                  "forSale": true,
+                  "playable": true,
+                  "errata": false,
+                  "_id": "6633784566a3bd4e5d7fcdc2",
+                  "amount": "2 ",
+                  "value": 0,
+                  "user": "662dbe6d66a3bd4e5d7fc33f"
+              },
+              {
+                  "forSale": true,
+                  "_id": "666efea62ec07d2053dbbab4",
+                  "amount": "2 ",
+                  "value": 35,
+                  "user": "666523032ec07d2053db9dcc"
+              },
+              {
+                  "forSale": true,
+                  "_id": "671c9714072317173e8bbf02",
+                  "amount": "3 ",
+                  "value": 0,
+                  "user": "671bfeea072317173e8bbda4"
+              }
+          ],
+          "name": "Raikiri",
+          "text": "TRANSFORMATION (’Richie’) ACTIVATE [Opponent’s Turn | Main | EOA] Discard this Character card from your hand: Target 1 Trigger or \u0003Activate effect on the chain and negate it during this turn. ONGOING This Character card may use \u0003TRANSFORMATION from your Discard Pile.",
+          "rarity": "Legendary Rare",
+          "cardNumber": "C0065L",
+          "cardType": "Character",
+          "handCost": "2",
+          "turnCount": 6,
+          "skill": "DRAGON",
+          "healthy": "6/3",
+          "injured": "3/2",
+          "image": "https://api.primaltcg.com/uploads/2024-05-08T15:39:10.889ZC0065L.png",
+          "cardSet": "Awakened Primordials",
+          "artist": {
+              "illustrations": [
+                  "655bc38dbc773b7430ad7af1"
+              ],
+              "_id": "655bc38dbc773b7430ad7af2",
+              "name": "Dragolisco",
+              "link": "http://primaltcg.com",
+              "createdAt": "2023-11-20T20:37:33.834Z",
+              "updatedAt": "2023-11-20T20:37:33.834Z",
+              "__v": 0
+          },
+          "createdAt": "2023-11-20T20:37:33.828Z",
+          "updatedAt": "2025-08-10T16:13:31.498Z",
+          "__v": 11,
+          "metadata": ""
+      },
+      {
+          "element": [
+              "Water",
+              "Fire",
+              "Sea"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419f90e269d50fc874902c",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Studying",
+          "text": "ONGOING ( ONGOING  While this card is in your Essence area, you cannot draw cards outside of your Normal Draw.)\u0003\u0003Draw 2 cards. If you have 3 or less Essence, you may Charge 1 card from your DP.\u0003\u0003\u0003   \u0003 \u0003\u0003\u0003",
+          "rarity": "Uncommon",
+          "cardNumber": "S0129",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 2,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:45:52.864ZS0129.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "68419deae269d50fc8748fcf",
+                  "68419e6de269d50fc8748fec",
+                  "68419f90e269d50fc874902c"
+              ],
+              "_id": "68419deae269d50fc8748fd0",
+              "name": "ILUSDN",
+              "link": "http://primaltcg.com",
+              "createdAt": "2025-06-05T13:38:50.445Z",
+              "updatedAt": "2025-06-05T13:45:52.877Z",
+              "__v": 2
+          },
+          "createdAt": "2025-06-05T13:45:52.873Z",
+          "updatedAt": "2025-06-05T13:45:52.873Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Water",
+              "Fire",
+              "Sea"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419f90e269d50fc874902c",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Studying",
+          "text": "ONGOING ( ONGOING  While this card is in your Essence area, you cannot draw cards outside of your Normal Draw.)\u0003\u0003Draw 2 cards. If you have 3 or less Essence, you may Charge 1 card from your DP.\u0003\u0003\u0003   \u0003 \u0003\u0003\u0003",
+          "rarity": "Uncommon",
+          "cardNumber": "S0129",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 2,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:45:52.864ZS0129.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "68419deae269d50fc8748fcf",
+                  "68419e6de269d50fc8748fec",
+                  "68419f90e269d50fc874902c"
+              ],
+              "_id": "68419deae269d50fc8748fd0",
+              "name": "ILUSDN",
+              "link": "http://primaltcg.com",
+              "createdAt": "2025-06-05T13:38:50.445Z",
+              "updatedAt": "2025-06-05T13:45:52.877Z",
+              "__v": 2
+          },
+          "createdAt": "2025-06-05T13:45:52.873Z",
+          "updatedAt": "2025-06-05T13:45:52.873Z",
+          "__v": 0
+      },
+      {
+          "element": [
+              "Water",
+              "Fire",
+              "Sea"
+          ],
+          "characteristic": [],
+          "abilityCost": [],
+          "playable": true,
+          "errata": false,
+          "_id": "68419f90e269d50fc874902c",
+          "owned": [],
+          "wanted": [],
+          "name": "Set 3: Studying",
+          "text": "ONGOING ( ONGOING  While this card is in your Essence area, you cannot draw cards outside of your Normal Draw.)\u0003\u0003Draw 2 cards. If you have 3 or less Essence, you may Charge 1 card from your DP.\u0003\u0003\u0003   \u0003 \u0003\u0003\u0003",
+          "rarity": "Uncommon",
+          "cardNumber": "S0129",
+          "cardType": "Strategy",
+          "handCost": "1",
+          "turnCount": 2,
+          "skill": "",
+          "healthy": "",
+          "injured": "",
+          "image": "https://api.primaltcg.com/uploads/2025-06-05T13:45:52.864ZS0129.png",
+          "cardSet": "Warden of the Seven Deadly Sins",
+          "artist": {
+              "illustrations": [
+                  "68419deae269d50fc8748fcf",
+                  "68419e6de269d50fc8748fec",
+                  "68419f90e269d50fc874902c"
+              ],
+              "_id": "68419deae269d50fc8748fd0",
+              "name": "ILUSDN",
+              "link": "http://primaltcg.com",
+              "createdAt": "2025-06-05T13:38:50.445Z",
+              "updatedAt": "2025-06-05T13:45:52.877Z",
+              "__v": 2
+          },
+          "createdAt": "2025-06-05T13:45:52.873Z",
+          "updatedAt": "2025-06-05T13:45:52.873Z",
+          "__v": 0
+      }
+  ],
+  "_id": "68913c762bd4a405d462df9b",
+  "name": "Zodiac Robo Lab",
+  "user": "5fb0a32fb033d3586904eae2",
+  "createdAt": "2025-08-04T23:04:22.568Z",
+  "updatedAt": "2025-08-10T00:28:18.586Z",
+  "__v": 32
+}

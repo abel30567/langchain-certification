@@ -1,0 +1,255 @@
+<div class="break-word glass absolute bottom-0 left-0 right-0 top-0 overflow-auto bg-base-200 pb-20 pl-20"><div class="sticky top-0 flex justify-between bg-base-200 py-4 pr-4 text-neutral"><span class="text-xl">Transcript</span><div class="flex gap-2"><button class="btn btn-circle btn-ghost btn-sm" aria-label="Close transcript"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" class="h-6 w-6" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M11.9997 10.5865L16.9495 5.63672L18.3637 7.05093L13.4139 12.0007L18.3637 16.9504L16.9495 18.3646L11.9997 13.4149L7.04996 18.3646L5.63574 16.9504L10.5855 12.0007L5.63574 7.05093L7.04996 5.63672L11.9997 10.5865Z"></path></svg></button></div></div><p class="text-neutral"><span class="link link-primary">0:03</span> <span class="">One of the most common,
+complex applications that</span></p><p class="text-neutral"><span class="link link-primary">0:05</span> <span class="">people are building using an LLM
+is a system that can answer</span></p><p class="text-neutral"><span class="link link-primary">0:10</span> <span class="">questions on top of or about
+a document.</span></p><p class="text-neutral"><span class="link link-primary">0:13</span> <span class="">So, given a piece of text,
+maybe extracted from a</span></p><p class="text-neutral"><span class="link link-primary">0:17</span> <span class="">PDF file or from a webpage or from
+some company's</span></p><p class="text-neutral"><span class="link link-primary">0:20</span> <span class="">intranet internal document collection, can
+you use an LLM to answer</span></p><p class="text-neutral"><span class="link link-primary">0:23</span> <span class="">questions about the
+content of those documents to help</span></p><p class="text-neutral"><span class="link link-primary">0:26</span> <span class="">users gain a
+deeper understanding and</span></p><p class="text-neutral"><span class="link link-primary">0:28</span> <span class="">get access to the information that
+they need?</span></p><p class="text-neutral"><span class="link link-primary">0:31</span> <span class="">This is really powerful because it
+starts to combine</span></p><p class="text-neutral"><span class="link link-primary">0:34</span> <span class="">these language models
+with data that they weren't</span></p><p class="text-neutral"><span class="link link-primary">0:36</span> <span class="">originally trained on. So
+it makes them much</span></p><p class="text-neutral"><span class="link link-primary">0:39</span> <span class="">more flexible and adaptable
+to your use case. It's also</span></p><p class="text-neutral"><span class="link link-primary">0:42</span> <span class="">really exciting because we'll start to
+move beyond language models, prompts, and output</span></p><p class="text-neutral"><span class="link link-primary">0:46</span> <span class="">parsers and start introducing
+some more of the key components</span></p><p class="text-neutral"><span class="link link-primary">0:49</span> <span class="">of LangChain, such as embedding
+models and vector stores.</span></p><p class="text-neutral"><span class="link link-primary">0:52</span> <span class=""></span></p><p class="text-neutral"><span class="link link-primary">0:53</span> <span class="">As Andrew mentioned,
+this is one of the</span></p><p class="text-neutral"><span class="link link-primary">0:54</span> <span class="">more popular chains that we've got, so
+I hope you're excited.</span></p><p class="text-neutral"><span class="link link-primary">0:56</span> <span class="">In fact,
+embeddings and vector stores</span></p><p class="text-neutral"><span class="link link-primary">0:58</span> <span class="">are some of the
+most powerful modern techniques,</span></p><p class="text-neutral"><span class="link link-primary">1:01</span> <span class="">so if you have not seen them yet,
+they are very much worth learning</span></p><p class="text-neutral"><span class="link link-primary">1:06</span> <span class="">about. So with that, let's dive in!</span></p><p class="text-neutral"><span class="link link-primary">1:08</span> <span class="">Let's do it! So we're going
+to start by importing</span></p><p class="text-neutral"><span class="link link-primary">1:11</span> <span class="">the environment variables as
+we always do.</span></p><p class="text-neutral"><span class="link link-primary">1:14</span> <span class="">Now we're going to import some
+things that will help</span></p><p class="text-neutral"><span class="link link-primary">1:17</span> <span class="">us when building this chain. We're
+going to import the retrieval</span></p><p class="text-neutral"><span class="link link-primary">1:20</span> <span class="">QA chain. This will do retrieval over
+some documents. We're going to</span></p><p class="text-neutral"><span class="link link-primary">1:23</span> <span class="">import our favorite chat open
+AI language model. We're going</span></p><p class="text-neutral"><span class="link link-primary">1:25</span> <span class="">to import
+a document loader. This is going to</span></p><p class="text-neutral"><span class="link link-primary">1:27</span> <span class="">be used to load some proprietary data that
+we're going to combine with</span></p><p class="text-neutral"><span class="link link-primary">1:31</span> <span class="">the language model. In
+this case it's going</span></p><p class="text-neutral"><span class="link link-primary">1:33</span> <span class="">to be in a
+CSV.</span></p><p class="text-neutral"><span class="link link-primary">1:34</span> <span class="">So we're
+going to import the CSV loader. Finally</span></p><p class="text-neutral"><span class="link link-primary">1:37</span> <span class="">we're going
+to import a vector store.</span></p><p class="text-neutral"><span class="link link-primary">1:39</span> <span class="">There are many different types
+of vector stores and we'll</span></p><p class="text-neutral"><span class="link link-primary">1:42</span> <span class="">cover what exactly these are
+later on but we're going</span></p><p class="text-neutral"><span class="link link-primary">1:44</span> <span class="">to get started with the "DocArrayInMemorySearch" vector
+store.</span></p><p class="text-neutral"><span class="link link-primary">1:47</span> <span class="">This is
+really nice because it's an in-memory</span></p><p class="text-neutral"><span class="link link-primary">1:49</span> <span class="">vector store and
+it doesn't require connecting to an</span></p><p class="text-neutral"><span class="link link-primary">1:51</span> <span class="">external database of any
+kind so it makes</span></p><p class="text-neutral"><span class="link link-primary">1:53</span> <span class="">it really easy to get started.</span></p><p class="text-neutral"><span class="link link-primary">1:56</span> <span class="">We're also going to import display and
+markdown to common</span></p><p class="text-neutral"><span class="link link-primary">1:59</span> <span class="">utilities for displaying
+information in Jupyter</span></p><p class="text-neutral"><span class="link link-primary">2:01</span> <span class="">notebooks.</span></p><p class="text-neutral"><span class="link link-primary">2:02</span> <span class="">We've provided a CSV of
+outdoor clothing that we're going</span></p><p class="text-neutral"><span class="link link-primary">2:06</span> <span class="">to use to combine with
+the language model. Here we're</span></p><p class="text-neutral"><span class="link link-primary">2:09</span> <span class="">going to
+initialize a loader, the CSV loader,</span></p><p class="text-neutral"><span class="link link-primary">2:12</span> <span class="">with a path
+to this file.</span></p><p class="text-neutral"><span class="link link-primary">2:15</span> <span class="">We're next going to import an index, the
+"VectorStoreIndexCreator". This</span></p><p class="text-neutral"><span class="link link-primary">2:20</span> <span class="">will help us create a
+vector store really easily.</span></p><p class="text-neutral"><span class="link link-primary">2:24</span> <span class="">As we can see below,
+there will only be a few</span></p><p class="text-neutral"><span class="link link-primary">2:27</span> <span class="">lines of code to create this.</span></p><p class="text-neutral"><span class="link link-primary">2:32</span> <span class="">To create it, we're
+going to specify two things.</span></p><p class="text-neutral"><span class="link link-primary">2:35</span> <span class="">First, we're going to specify the
+vector store class.</span></p><p class="text-neutral"><span class="link link-primary">2:39</span> <span class="">As mentioned before, we're
+going to use this vector store, as</span></p><p class="text-neutral"><span class="link link-primary">2:41</span> <span class="">it's a particularly easy one to
+get started with.</span></p><p class="text-neutral"><span class="link link-primary">2:44</span> <span class="">After it's been created, we're then
+going to call "from_loaders", which takes in</span></p><p class="text-neutral"><span class="link link-primary">2:48</span> <span class="">a list of document
+loaders.</span></p><p class="text-neutral"><span class="link link-primary">2:50</span> <span class="">We've only got one loader that
+we really care about, so that's what</span></p><p class="text-neutral"><span class="link link-primary">2:53</span> <span class="">we're passing in here.</span></p><p class="text-neutral"><span class="link link-primary">2:56</span> <span class="">It's now been created and
+we can start to</span></p><p class="text-neutral"><span class="link link-primary">2:58</span> <span class="">ask questions about it.</span></p><p class="text-neutral"><span class="link link-primary">3:00</span> <span class="">Below we'll cover what exactly happened
+under the hood, so let's not</span></p><p class="text-neutral"><span class="link link-primary">3:03</span> <span class="">worry about that for now. Here, we'll
+start with a query.</span></p><p class="text-neutral"><span class="link link-primary">3:07</span> <span class="">We'll then create a response using "index.query"
+and pass in this query.</span></p><p class="text-neutral"><span class="link link-primary">3:13</span> <span class=""></span></p><p class="text-neutral"><span class="link link-primary">3:15</span> <span class="">Again, we'll cover what's going
+on under the hood down below.</span></p><p class="text-neutral"><span class="link link-primary">3:18</span> <span class=""></span></p><p class="text-neutral"><span class="link link-primary">3:19</span> <span class="">For now, we'll
+just wait for it to respond.</span></p><p class="text-neutral"><span class="link link-primary">3:27</span> <span class="">After it finishes, we can now take a
+look at what exactly was returned.</span></p><p class="text-neutral"><span class="link link-primary">3:33</span> <span class="">We've gotten back a table
+in markdown with names</span></p><p class="text-neutral"><span class="link link-primary">3:36</span> <span class="">and descriptions for all
+shirts with sun protection.</span></p><p class="text-neutral"><span class="link link-primary">3:39</span> <span class="">We've also got a nice
+little summary that the</span></p><p class="text-neutral"><span class="link link-primary">3:41</span> <span class="">language model has provided us.</span></p><p class="text-neutral"><span class="link link-primary">3:44</span> <span class="">So we've gone over how to do question
+answering over your</span></p><p class="text-neutral"><span class="link link-primary">3:47</span> <span class="">documents, but what exactly is going
+on underneath the hood? First, let's</span></p><p class="text-neutral"><span class="link link-primary">3:50</span> <span class="">think about the general idea. We want
+to use language models and</span></p><p class="text-neutral"><span class="link link-primary">3:54</span> <span class="">combine it with a lot
+of our documents.</span></p><p class="text-neutral"><span class="link link-primary">3:57</span> <span class="">But there's a key issue.</span></p><p class="text-neutral"><span class="link link-primary">3:58</span> <span class="">Language models can only
+inspect a few thousand</span></p><p class="text-neutral"><span class="link link-primary">4:00</span> <span class="">words at a time.</span></p><p class="text-neutral"><span class="link link-primary">4:01</span> <span class="">So if we have really large documents,
+how can we get</span></p><p class="text-neutral"><span class="link link-primary">4:04</span> <span class="">the language model to
+answer questions about everything</span></p><p class="text-neutral"><span class="link link-primary">4:06</span> <span class="">that's in there?</span></p><p class="text-neutral"><span class="link link-primary">4:08</span> <span class="">This is where embeddings and
+vector stores come into play. First,</span></p><p class="text-neutral"><span class="link link-primary">4:13</span> <span class="">let's talk about embeddings.</span></p><p class="text-neutral"><span class="link link-primary">4:15</span> <span class="">Embeddings create
+numerical representations</span></p><p class="text-neutral"><span class="link link-primary">4:17</span> <span class="">for pieces of text.</span></p><p class="text-neutral"><span class="link link-primary">4:20</span> <span class="">This numerical representation
+captures the semantic</span></p><p class="text-neutral"><span class="link link-primary">4:22</span> <span class="">meaning of the piece of text
+that it's been run over.</span></p><p class="text-neutral"><span class="link link-primary">4:26</span> <span class="">Pieces of text with similar content
+will have similar vectors.</span></p><p class="text-neutral"><span class="link link-primary">4:30</span> <span class="">This lets us compare pieces
+of text in the vector space.</span></p><p class="text-neutral"><span class="link link-primary">4:33</span> <span class="">In the example below,
+we can see that</span></p><p class="text-neutral"><span class="link link-primary">4:35</span> <span class="">we have three sentences.</span></p><p class="text-neutral"><span class="link link-primary">4:37</span> <span class="">The first two are about pets,
+while the third is about a car.</span></p><p class="text-neutral"><span class="link link-primary">4:41</span> <span class="">If we look at the
+representation in the numeric space,</span></p><p class="text-neutral"><span class="link link-primary">4:44</span> <span class="">we can see that when we compare the
+two vectors on the</span></p><p class="text-neutral"><span class="link link-primary">4:48</span> <span class="">pieces of text corresponding
+to the sentences about pets, they're</span></p><p class="text-neutral"><span class="link link-primary">4:51</span> <span class="">very similar.</span></p><p class="text-neutral"><span class="link link-primary">4:52</span> <span class="">While if we compare it to
+the one that talks about a car,</span></p><p class="text-neutral"><span class="link link-primary">4:54</span> <span class="">they're not similar at all.</span></p><p class="text-neutral"><span class="link link-primary">4:56</span> <span class="">This will let us easily
+figure out which pieces of</span></p><p class="text-neutral"><span class="link link-primary">4:59</span> <span class="">text are like each other,
+which will be very useful as</span></p><p class="text-neutral"><span class="link link-primary">5:02</span> <span class="">we think about which pieces of
+text we want to include when</span></p><p class="text-neutral"><span class="link link-primary">5:05</span> <span class="">passing to the language model to
+answer a question.</span></p><p class="text-neutral"><span class="link link-primary">5:08</span> <span class="">The next component that we're
+going to cover is</span></p><p class="text-neutral"><span class="link link-primary">5:10</span> <span class="">the vector database.</span></p><p class="text-neutral"><span class="link link-primary">5:11</span> <span class="">A vector database is a way
+to store these</span></p><p class="text-neutral"><span class="link link-primary">5:14</span> <span class="">vector representations that
+we created in the previous step.</span></p><p class="text-neutral"><span class="link link-primary">5:16</span> <span class="">The way that we
+create this vector database</span></p><p class="text-neutral"><span class="link link-primary">5:18</span> <span class="">is we populate it
+with chunks of text</span></p><p class="text-neutral"><span class="link link-primary">5:21</span> <span class="">coming from incoming documents.</span></p><p class="text-neutral"><span class="link link-primary">5:22</span> <span class="">When we get a big incoming document,
+we're first going to break it</span></p><p class="text-neutral"><span class="link link-primary">5:25</span> <span class="">up into smaller chunks.</span></p><p class="text-neutral"><span class="link link-primary">5:27</span> <span class="">This helps create pieces
+of text that are</span></p><p class="text-neutral"><span class="link link-primary">5:29</span> <span class="">smaller than the original document,
+which is useful because</span></p><p class="text-neutral"><span class="link link-primary">5:31</span> <span class="">we may not be able to pass the
+whole document to the</span></p><p class="text-neutral"><span class="link link-primary">5:35</span> <span class="">language model. So we want to
+create these small chunks</span></p><p class="text-neutral"><span class="link link-primary">5:37</span> <span class="">so we can only
+pass the most relevant</span></p><p class="text-neutral"><span class="link link-primary">5:39</span> <span class="">ones to the language model.</span></p><p class="text-neutral"><span class="link link-primary">5:41</span> <span class="">We then create an embedding
+for each of these chunks,</span></p><p class="text-neutral"><span class="link link-primary">5:44</span> <span class="">and then we store those in a vector
+database. That's</span></p><p class="text-neutral"><span class="link link-primary">5:47</span> <span class="">what happens when we create the index.</span></p><p class="text-neutral"><span class="link link-primary">5:50</span> <span class="">Now that we've got this index, we
+can use it during</span></p><p class="text-neutral"><span class="link link-primary">5:52</span> <span class="">runtime to find the
+pieces of text most</span></p><p class="text-neutral"><span class="link link-primary">5:55</span> <span class="">relevant to an incoming query.</span></p><p class="text-neutral"><span class="link link-primary">5:56</span> <span class="">When a query comes in,
+we first create an</span></p><p class="text-neutral"><span class="link link-primary">5:59</span> <span class="">embedding for that query.</span></p><p class="text-neutral"><span class="link link-primary">6:00</span> <span class="">We then compare it
+to all the vectors</span></p><p class="text-neutral"><span class="link link-primary">6:02</span> <span class="">in the vector database,
+and we pick the n most similar.</span></p><p class="text-neutral"><span class="link link-primary">6:06</span> <span class="">These are then returned,
+and we can pass those in the prompt</span></p><p class="text-neutral"><span class="link link-primary">6:09</span> <span class="">to the language model to get back a
+final answer. So above,</span></p><p class="text-neutral"><span class="link link-primary">6:12</span> <span class="">we created this chain and
+only a few lines of code.</span></p><p class="text-neutral"><span class="link link-primary">6:16</span> <span class="">That's
+great for getting started quickly.</span></p><p class="text-neutral"><span class="link link-primary">6:18</span> <span class="">But let's now do it a bit more step-by-step and
+understand what exactly is going on</span></p><p class="text-neutral"><span class="link link-primary">6:22</span> <span class="">under the hood. The first step
+is similar to above.</span></p><p class="text-neutral"><span class="link link-primary">6:25</span> <span class="">We're
+going to create a document loader, loading</span></p><p class="text-neutral"><span class="link link-primary">6:28</span> <span class="">from that CSV with all the
+descriptions of the</span></p><p class="text-neutral"><span class="link link-primary">6:31</span> <span class="">products that we want to do
+question answering over.</span></p><p class="text-neutral"><span class="link link-primary">6:34</span> <span class="">We can then load
+documents from this document loader.</span></p><p class="text-neutral"><span class="link link-primary">6:38</span> <span class=""></span></p><p class="text-neutral"><span class="link link-primary">6:39</span> <span class="">If we look at the individual documents,
+we can see that each</span></p><p class="text-neutral"><span class="link link-primary">6:44</span> <span class="">document corresponds to one of
+the products in the CSV.</span></p><p class="text-neutral"><span class="link link-primary">6:48</span> <span class="">Previously,
+we talked about creating chunks.</span></p><p class="text-neutral"><span class="link link-primary">6:51</span> <span class="">Because these documents
+are already so small,</span></p><p class="text-neutral"><span class="link link-primary">6:52</span> <span class="">we actually don't
+need to do any chunking here.</span></p><p class="text-neutral"><span class="link link-primary">6:55</span> <span class="">And so we can create embeddings
+directly.</span></p><p class="text-neutral"><span class="link link-primary">6:59</span> <span class="">To create embeddings, we're
+going to use OpenAI's embedding</span></p><p class="text-neutral"><span class="link link-primary">7:02</span> <span class="">class.</span></p><p class="text-neutral"><span class="link link-primary">7:03</span> <span class="">We can import it and initialize it here.</span></p><p class="text-neutral"><span class="link link-primary">7:06</span> <span class="">If we want to
+see what these embeddings do,</span></p><p class="text-neutral"><span class="link link-primary">7:09</span> <span class="">we can actually take a look at what
+happens when we embed</span></p><p class="text-neutral"><span class="link link-primary">7:12</span> <span class="">a particular piece of text.</span></p><p class="text-neutral"><span class="link link-primary">7:19</span> <span class="">Let's use the "embed_query" method on
+the embeddings object to create an</span></p><p class="text-neutral"><span class="link link-primary">7:22</span> <span class="">embeddings for a
+particular piece of text. In this</span></p><p class="text-neutral"><span class="link link-primary">7:25</span> <span class="">case, the sentence, "Hi, my name
+is Harrison."</span></p><p class="text-neutral"><span class="link link-primary">7:30</span> <span class="">If we take a look at this embedding,
+we can see that there are</span></p><p class="text-neutral"><span class="link link-primary">7:33</span> <span class="">over a thousand different elements.</span></p><p class="text-neutral"><span class="link link-primary">7:39</span> <span class="">Each of these elements
+is a different numerical value.</span></p><p class="text-neutral"><span class="link link-primary">7:43</span> <span class="">Combined, this creates the
+overall numerical representation</span></p><p class="text-neutral"><span class="link link-primary">7:46</span> <span class="">for this piece of text.</span></p><p class="text-neutral"><span class="link link-primary">7:49</span> <span class="">We want to create
+embeddings for all the</span></p><p class="text-neutral"><span class="link link-primary">7:51</span> <span class="">pieces of text that
+we just loaddand then</span></p><p class="text-neutral"><span class="link link-primary">7:53</span> <span class="">we also want to store them in a
+vector store.</span></p><p class="text-neutral"><span class="link link-primary">7:57</span> <span class="">We can do that by using the "from_documents"
+method</span></p><p class="text-neutral"><span class="link link-primary">8:00</span> <span class="">on the vector store.</span></p><p class="text-neutral"><span class="link link-primary">8:02</span> <span class="">This method takes in
+a list of documents,</span></p><p class="text-neutral"><span class="link link-primary">8:05</span> <span class="">an embedding object, and then we'll
+create an overall vector store.</span></p><p class="text-neutral"><span class="link link-primary">8:10</span> <span class="">We can now use this vector store to
+find pieces of text</span></p><p class="text-neutral"><span class="link link-primary">8:13</span> <span class="">similar to an incoming query.</span></p><p class="text-neutral"><span class="link link-primary">8:16</span> <span class="">So let's look at the query, "Please
+suggest a shirt with sunblocking".</span></p><p class="text-neutral"><span class="link link-primary">8:20</span> <span class=""></span></p><p class="text-neutral"><span class="link link-primary">8:21</span> <span class="">If we use the similarity
+search method on the vector</span></p><p class="text-neutral"><span class="link link-primary">8:23</span> <span class="">store and pass in a query,
+we will get back a list of documents.</span></p><p class="text-neutral"><span class="link link-primary">8:27</span> <span class=""></span></p><p class="text-neutral"><span class="link link-primary">8:35</span> <span class="">We can see that
+it returns four documents,</span></p><p class="text-neutral"><span class="link link-primary">8:38</span> <span class="">and if we look at the first one,
+we can see that it</span></p><p class="text-neutral"><span class="link link-primary">8:43</span> <span class="">is indeed a shirt about sunblocking.</span></p><p class="text-neutral"><span class="link link-primary">8:46</span> <span class="">So, how do we use
+this to do question</span></p><p class="text-neutral"><span class="link link-primary">8:49</span> <span class="">answering over our own documents?
+First, we need to create a</span></p><p class="text-neutral"><span class="link link-primary">8:52</span> <span class="">retriever from this vector store.
+A retriever is a</span></p><p class="text-neutral"><span class="link link-primary">8:55</span> <span class="">generic interface that can
+be underpinned by any</span></p><p class="text-neutral"><span class="link link-primary">8:58</span> <span class="">method that takes in
+a query and returns documents.</span></p><p class="text-neutral"><span class="link link-primary">9:01</span> <span class="">Vector stores and embeddings are
+one such method to do so,</span></p><p class="text-neutral"><span class="link link-primary">9:04</span> <span class="">although there are
+plenty of different methods,</span></p><p class="text-neutral"><span class="link link-primary">9:07</span> <span class="">some less advanced,
+some more advanced.</span></p><p class="text-neutral"><span class="link link-primary">9:10</span> <span class="">Next, because we want to
+do text generation and</span></p><p class="text-neutral"><span class="link link-primary">9:12</span> <span class="">return a natural language response,
+we're going to import a</span></p><p class="text-neutral"><span class="link link-primary">9:15</span> <span class="">language model and we're going
+to use ChatOpenAI.</span></p><p class="text-neutral"><span class="link link-primary">9:19</span> <span class="">If we were doing this by hand,
+what we would do is</span></p><p class="text-neutral"><span class="link link-primary">9:22</span> <span class="">we would combine the documents
+into a single piece of text.</span></p><p class="text-neutral"><span class="link link-primary">9:27</span> <span class="">So we'd do something like this, where
+we join all the</span></p><p class="text-neutral"><span class="link link-primary">9:31</span> <span class="">page content in the
+documents into a variable</span></p><p class="text-neutral"><span class="link link-primary">9:34</span> <span class="">and then would pass
+this variable or a</span></p><p class="text-neutral"><span class="link link-primary">9:36</span> <span class="">variant on the question, like, "Please
+list all your shirts</span></p><p class="text-neutral"><span class="link link-primary">9:40</span> <span class="">with sun protection in
+a table in markdown</span></p><p class="text-neutral"><span class="link link-primary">9:43</span> <span class="">and summarize each one." into
+the language model.</span></p><p class="text-neutral"><span class="link link-primary">9:47</span> <span class="">And if we print out the response here,
+we can see that we get back a</span></p><p class="text-neutral"><span class="link link-primary">9:51</span> <span class="">table exactly as we asked for.</span></p><p class="text-neutral"><span class="link link-primary">9:54</span> <span class="">All of those steps can be
+encapsulated with the</span></p><p class="text-neutral"><span class="link link-primary">9:57</span> <span class="">LangChain chain.</span></p><p class="text-neutral"><span class="link link-primary">9:58</span> <span class="">So here we can
+create a retrieval QA chain.</span></p><p class="text-neutral"><span class="link link-primary">10:01</span> <span class="">This does retrieval and then does
+question answering over</span></p><p class="text-neutral"><span class="link link-primary">10:03</span> <span class="">the retrieved documents.
+To create such a chain, we'll</span></p><p class="text-neutral"><span class="link link-primary">10:06</span> <span class="">pass in a few different things. First,
+we'll pass</span></p><p class="text-neutral"><span class="link link-primary">10:08</span> <span class="">in the language model.</span></p><p class="text-neutral"><span class="link link-primary">10:10</span> <span class="">This will be used for doing
+the text generation at the end.</span></p><p class="text-neutral"><span class="link link-primary">10:14</span> <span class="">Next, we'll pass in the chain type. We're
+going to use "stuff". This is</span></p><p class="text-neutral"><span class="link link-primary">10:17</span> <span class="">the simplest method as
+it just stuffs all</span></p><p class="text-neutral"><span class="link link-primary">10:20</span> <span class="">the documents into context
+and makes one call</span></p><p class="text-neutral"><span class="link link-primary">10:22</span> <span class="">to a language model.</span></p><p class="text-neutral"><span class="link link-primary">10:23</span> <span class="">There are a few other
+methods that you can use</span></p><p class="text-neutral"><span class="link link-primary">10:25</span> <span class="">to do question answering that I'll
+maybe touch on at the end, but</span></p><p class="text-neutral"><span class="link link-primary">10:28</span> <span class="">we're not
+going to look at in detail.</span></p><p class="text-neutral"><span class="link link-primary">10:30</span> <span class="">Third, we're
+going to pass in a retriever.</span></p><p class="text-neutral"><span class="link link-primary">10:32</span> <span class="">The retriever we created
+above is just an</span></p><p class="text-neutral"><span class="link link-primary">10:35</span> <span class="">interface for fetching documents.</span></p><p class="text-neutral"><span class="link link-primary">10:37</span> <span class="">This will be used to
+fetch the documents and pass</span></p><p class="text-neutral"><span class="link link-primary">10:38</span> <span class="">it to the language model.</span></p><p class="text-neutral"><span class="link link-primary">10:40</span> <span class="">And then finally, we're
+going to set "verbose=True".</span></p><p class="text-neutral"><span class="link link-primary">10:44</span> <span class="">Now, we can create a
+query and we can run the chain on</span></p><p class="text-neutral"><span class="link link-primary">10:49</span> <span class="">this query.</span></p><p class="text-neutral"><span class="link link-primary">11:06</span> <span class="">When we get the response,
+we can again display it using</span></p><p class="text-neutral"><span class="link link-primary">11:10</span> <span class="">the display and markdown utilities.
+You can pause the video</span></p><p class="text-neutral"><span class="link link-primary">11:13</span> <span class="">here and try it out
+with a bunch of different queries.</span></p><p class="text-neutral"><span class="link link-primary">11:19</span> <span class="">So that's how you do it in detail, but
+remember that we can still</span></p><p class="text-neutral"><span class="link link-primary">11:21</span> <span class="">do it pretty easily with
+just the one line that</span></p><p class="text-neutral"><span class="link link-primary">11:23</span> <span class="">we had up above.</span></p><p class="text-neutral"><span class="link link-primary">11:25</span> <span class="">So, these two things equate
+to the same result.</span></p><p class="text-neutral"><span class="link link-primary">11:28</span> <span class="">And that's part of the interesting
+stuff about LangChain. You</span></p><p class="text-neutral"><span class="link link-primary">11:30</span> <span class="">can do it in one line, or
+you can look at</span></p><p class="text-neutral"><span class="link link-primary">11:33</span> <span class="">the individual things and
+break it down into</span></p><p class="text-neutral"><span class="link link-primary">11:35</span> <span class="">five more detailed ones.</span></p><p class="text-neutral"><span class="link link-primary">11:36</span> <span class="">The five more detailed
+ones let you set</span></p><p class="text-neutral"><span class="link link-primary">11:38</span> <span class="">more specifics about what
+exactly is going on, but the one-liner</span></p><p class="text-neutral"><span class="link link-primary">11:41</span> <span class="">is easy to get started. So
+up to you as to how you'd prefer</span></p><p class="text-neutral"><span class="link link-primary">11:45</span> <span class="">to go forward.</span></p><p class="text-neutral"><span class="link link-primary">11:46</span> <span class="">We can also customize the index when we're
+creating it. And</span></p><p class="text-neutral"><span class="link link-primary">11:49</span> <span class="">so if you remember, when
+we created it by hand, we</span></p><p class="text-neutral"><span class="link link-primary">11:52</span> <span class="">specified an embedding. And
+we can specify an</span></p><p class="text-neutral"><span class="link link-primary">11:55</span> <span class="">embedding here as well. And
+so this will give us flexibility</span></p><p class="text-neutral"><span class="link link-primary">11:58</span> <span class="">over how the
+embeddings themselves are</span></p><p class="text-neutral"><span class="link link-primary">12:00</span> <span class="">created. And we can also swap
+out the vector store</span></p><p class="text-neutral"><span class="link link-primary">12:02</span> <span class="">here for a different
+type of vector store. So</span></p><p class="text-neutral"><span class="link link-primary">12:05</span> <span class="">there's the same level of customization that
+you did when you create</span></p><p class="text-neutral"><span class="link link-primary">12:09</span> <span class="">it by hand that's also available
+when you create the</span></p><p class="text-neutral"><span class="link link-primary">12:11</span> <span class="">index here.</span></p><p class="text-neutral"><span class="link link-primary">12:13</span> <span class="">We use the "stuff method"
+in this notebook.</span></p><p class="text-neutral"><span class="link link-primary">12:15</span> <span class="">The stuff method is
+really nice because it's</span></p><p class="text-neutral"><span class="link link-primary">12:17</span> <span class="">pretty simple. You just put all of
+it into one prompt and send that to</span></p><p class="text-neutral"><span class="link link-primary">12:21</span> <span class="">the language model and
+get back one response.</span></p><p class="text-neutral"><span class="link link-primary">12:23</span> <span class="">So it's
+quite simple to understand what's going</span></p><p class="text-neutral"><span class="link link-primary">12:25</span> <span class="">on. It's quite cheap
+and it works pretty well.</span></p><p class="text-neutral"><span class="link link-primary">12:28</span> <span class="">But that doesn't always work okay.</span></p><p class="text-neutral"><span class="link link-primary">12:31</span> <span class="">So if you remember,
+when we fetched the</span></p><p class="text-neutral"><span class="link link-primary">12:33</span> <span class="">documents in the notebook,
+we only got four documents back</span></p><p class="text-neutral"><span class="link link-primary">12:35</span> <span class="">and they were relatively small.</span></p><p class="text-neutral"><span class="link link-primary">12:37</span> <span class="">But what if you wanted to do the
+same type of question</span></p><p class="text-neutral"><span class="link link-primary">12:40</span> <span class="">answering over lots of
+different types of chunks?</span></p><p class="text-neutral"><span class="link link-primary">12:43</span> <span class="">Then there are a few
+different methods that we can use.</span></p><p class="text-neutral"><span class="link link-primary">12:45</span> <span class="">The first is "Map_reduce".</span></p><p class="text-neutral"><span class="link link-primary">12:47</span> <span class="">This basically takes all the chunks,
+passes them along with the</span></p><p class="text-neutral"><span class="link link-primary">12:50</span> <span class="">question to a language model,
+gets back a response, and then uses</span></p><p class="text-neutral"><span class="link link-primary">12:54</span> <span class="">another language model
+call to summarize all of the</span></p><p class="text-neutral"><span class="link link-primary">12:57</span> <span class="">individual responses into
+a final answer.</span></p><p class="text-neutral"><span class="link link-primary">13:00</span> <span class="">This is really powerful
+because it can operate</span></p><p class="text-neutral"><span class="link link-primary">13:03</span> <span class="">over any number of documents.</span></p><p class="text-neutral"><span class="link link-primary">13:05</span> <span class="">And it's also really powerful because
+you can do the</span></p><p class="text-neutral"><span class="link link-primary">13:08</span> <span class="">individual questions in parallel.</span></p><p class="text-neutral"><span class="link link-primary">13:10</span> <span class="">But it does take a lot more calls.
+And it does treat</span></p><p class="text-neutral"><span class="link link-primary">13:13</span> <span class="">all the documents as independent,
+which may not always</span></p><p class="text-neutral"><span class="link link-primary">13:16</span> <span class="">be the most desired thing. "Refine",
+which is another method,</span></p><p class="text-neutral"><span class="link link-primary">13:19</span> <span class="">is again used to
+loop over many documents.</span></p><p class="text-neutral"><span class="link link-primary">13:22</span> <span class="">But it actually does it iteratively.
+It builds upon the</span></p><p class="text-neutral"><span class="link link-primary">13:25</span> <span class="">answer from the previous document.</span></p><p class="text-neutral"><span class="link link-primary">13:27</span> <span class="">So this is really good for
+combining information and</span></p><p class="text-neutral"><span class="link link-primary">13:30</span> <span class="">building up an answer over time.
+It will generally lead to longer</span></p><p class="text-neutral"><span class="link link-primary">13:34</span> <span class="">answers.</span></p><p class="text-neutral"><span class="link link-primary">13:35</span> <span class="">And it's also not as fast because
+now the calls aren't independent.</span></p><p class="text-neutral"><span class="link link-primary">13:38</span> <span class="">They depend on the result of
+previous calls.</span></p><p class="text-neutral"><span class="link link-primary">13:41</span> <span class="">This means that it
+often takes a good</span></p><p class="text-neutral"><span class="link link-primary">13:44</span> <span class="">while longer and takes
+just as many calls as "Map_reduce", basically.</span></p><p class="text-neutral"><span class="link link-primary">13:47</span> <span class="">"Map_rerank" is a pretty interesting and
+a bit more</span></p><p class="text-neutral"><span class="link link-primary">13:50</span> <span class="">experimental one where you do a
+single call to the language model</span></p><p class="text-neutral"><span class="link link-primary">13:54</span> <span class="">for each document. And you
+also ask it to return a score.</span></p><p class="text-neutral"><span class="link link-primary">13:58</span> <span class=""></span></p><p class="text-neutral"><span class="link link-primary">13:58</span> <span class="">And then you select the highest score.</span></p><p class="text-neutral"><span class="link link-primary">14:01</span> <span class="">This relies on the
+language model to know</span></p><p class="text-neutral"><span class="link link-primary">14:03</span> <span class="">what the score should be.
+So you often have to tell it, "Hey,</span></p><p class="text-neutral"><span class="link link-primary">14:06</span> <span class="">it should be a high score if it's
+relevant to the document and really</span></p><p class="text-neutral"><span class="link link-primary">14:10</span> <span class="">refine the instructions
+there". Similar to "Map_reduce", all</span></p><p class="text-neutral"><span class="link link-primary">14:12</span> <span class="">the
+calls are independent. So you</span></p><p class="text-neutral"><span class="link link-primary">14:14</span> <span class="">can batch them and it's relatively fast.
+But again, you're making a bunch</span></p><p class="text-neutral"><span class="link link-primary">14:17</span> <span class="">of language model calls.
+So it will be</span></p><p class="text-neutral"><span class="link link-primary">14:19</span> <span class="">a bit more expensive.</span></p><p class="text-neutral"><span class="link link-primary">14:21</span> <span class="">The most common of
+these methods is the "stuff method",</span></p><p class="text-neutral"><span class="link link-primary">14:23</span> <span class="">which we used in
+the notebook to combine</span></p><p class="text-neutral"><span class="link link-primary">14:25</span> <span class="">it all into one document.</span></p><p class="text-neutral"><span class="link link-primary">14:27</span> <span class="">The second most common is the "Map_reduce"
+method, which takes these chunks</span></p><p class="text-neutral"><span class="link link-primary">14:31</span> <span class="">and sends them to the language
+model.</span></p><p class="text-neutral"><span class="link link-primary">14:34</span> <span class="">These methods here, stuff, map_reduce,
+refine, and rerank can also</span></p><p class="text-neutral"><span class="link link-primary">14:37</span> <span class="">be used for lots of other
+chains besides just</span></p><p class="text-neutral"><span class="link link-primary">14:39</span> <span class="">question answering.</span></p><p class="text-neutral"><span class="link link-primary">14:41</span> <span class="">For example,
+a really common use case of the "Map_reduce"</span></p><p class="text-neutral"><span class="link link-primary">14:44</span> <span class="">chain is for summarization, where
+you have a really long document</span></p><p class="text-neutral"><span class="link link-primary">14:47</span> <span class="">and you want
+to recursively summarize</span></p><p class="text-neutral"><span class="link link-primary">14:49</span> <span class="">pieces of information
+in it.</span></p><p class="text-neutral"><span class="link link-primary">14:52</span> <span class="">That's it for question
+answering over documents.</span></p><p class="text-neutral"><span class="link link-primary">14:54</span> <span class="">As you may have noticed, there's
+a lot going on in the</span></p><p class="text-neutral"><span class="link link-primary">14:57</span> <span class="">different chains that we have here.
+And so in the next section, we'll cover</span></p><p class="text-neutral"><span class="link link-primary">15:01</span> <span class="">ways to better understand
+what exactly is going</span></p><p class="text-neutral"><span class="link link-primary">15:03</span> <span class="">on inside all of
+these chains.</span></p></div>

@@ -9,8 +9,6 @@
 secrets.json
 
 # Generated data files
-primal_tcg_questions.json
-test_primal_questions.json
 *.log
 
 # Python
